@@ -1,0 +1,125 @@
+2023-10-02 17:15:55,622 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:15:55,622 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/parts/news/
+2023-10-02 17:15:55,622 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:15:55,867 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/skyfall/
+2023-10-02 17:15:55,989 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/older/
+2023-10-02 17:15:56,114 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/ireland_lng/
+2023-10-02 17:15:56,229 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/test_man/
+2023-10-02 17:15:56,351 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/60_items/
+2023-10-02 17:15:56,512 - src.internal.LentaParser - INFO - Starting parsing https://moslenta.ru/news/city/menyu-makdonaldsa-02-10-2023.htm/
+2023-10-02 17:15:56,634 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/rammstein_simfoniya/
+2023-10-02 17:15:56,755 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/avoska/
+2023-10-02 17:15:56,881 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/babochka/
+2023-10-02 17:15:57,001 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/brnl/
+2023-10-02 17:15:57,123 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/sosedi_dacha/
+2023-10-02 17:15:57,257 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/fitness/
+2023-10-02 17:15:57,381 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/vse/
+2023-10-02 17:15:57,623 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/timoti/
+2023-10-02 17:15:57,745 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/5464748490/
+2023-10-02 17:15:57,866 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/cartierrrrrr/
+2023-10-02 17:15:57,991 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/child/
+2023-10-02 17:15:58,113 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/bloomb/
+2023-10-02 17:15:58,230 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/blastocystis/
+2023-10-02 17:15:58,352 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/grazdanstvo/
+2023-10-02 17:15:58,354 - src.internal.LentaParser - INFO - File LentaParser created
+2023-10-02 17:15:58,354 - src.internal.LentaParser - INFO - Returned results
+2023-10-02 17:17:59,316 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:17:59,316 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/parts/news/
+2023-10-02 17:17:59,316 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:17:59,578 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/fashionable2underwear/
+2023-10-02 17:17:59,712 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/skyfall/
+2023-10-02 17:17:59,833 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/older/
+2023-10-02 17:18:00,112 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/ireland_lng/
+2023-10-02 17:18:00,232 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/test_man/
+2023-10-02 17:18:00,349 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/60_items/
+2023-10-02 17:18:00,504 - src.internal.LentaParser - INFO - Starting parsing https://moslenta.ru/news/city/menyu-makdonaldsa-02-10-2023.htm/
+2023-10-02 17:18:00,625 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/rammstein_simfoniya/
+2023-10-02 17:18:00,879 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/avoska/
+2023-10-02 17:18:01,139 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/babochka/
+2023-10-02 17:18:01,260 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/brnl/
+2023-10-02 17:18:01,408 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/sosedi_dacha/
+2023-10-02 17:18:01,577 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/fitness/
+2023-10-02 17:18:01,706 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/vse/
+2023-10-02 17:18:01,828 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/timoti/
+2023-10-02 17:18:01,954 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/5464748490/
+2023-10-02 17:18:02,075 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/cartierrrrrr/
+2023-10-02 17:18:02,197 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/child/
+2023-10-02 17:18:02,336 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/bloomb/
+2023-10-02 17:18:02,450 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/blastocystis/
+2023-10-02 17:18:02,452 - src.internal.LentaParser - INFO - File LentaParser created
+2023-10-02 17:18:02,453 - src.internal.LentaParser - INFO - Returned results
+2023-10-02 17:21:21,649 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:21:21,650 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/parts/news/
+2023-10-02 17:21:21,650 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:21:21,906 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/cyprus/
+2023-10-02 17:21:22,031 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/fashionable2underwear/
+2023-10-02 17:21:22,167 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/skyfall/
+2023-10-02 17:21:22,318 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/older/
+2023-10-02 17:21:22,441 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/ireland_lng/
+2023-10-02 17:21:22,567 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/test_man/
+2023-10-02 17:21:22,688 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/60_items/
+2023-10-02 17:21:22,847 - src.internal.LentaParser - INFO - Starting parsing https://moslenta.ru/news/city/menyu-makdonaldsa-02-10-2023.htm/
+2023-10-02 17:21:22,963 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/rammstein_simfoniya/
+2023-10-02 17:21:23,091 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/avoska/
+2023-10-02 17:21:23,217 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/babochka/
+2023-10-02 17:21:23,344 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/brnl/
+2023-10-02 17:21:23,478 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/sosedi_dacha/
+2023-10-02 17:21:23,602 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/fitness/
+2023-10-02 17:21:23,723 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/vse/
+2023-10-02 17:21:23,997 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/timoti/
+2023-10-02 17:21:24,233 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/5464748490/
+2023-10-02 17:21:24,347 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/cartierrrrrr/
+2023-10-02 17:21:24,606 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/child/
+2023-10-02 17:21:24,734 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/bloomb/
+2023-10-02 17:21:24,736 - src.internal.LentaParser - INFO - File LentaParser created
+2023-10-02 17:21:24,736 - src.internal.LentaParser - INFO - Returned results
+2023-10-02 17:23:49,331 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:23:49,331 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/parts/news/
+2023-10-02 17:23:49,331 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:23:49,586 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/rec_spain/
+2023-10-02 17:23:49,710 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/ranenny/
+2023-10-02 17:23:49,832 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/cyprus/
+2023-10-02 17:23:49,951 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/fashionable2underwear/
+2023-10-02 17:23:50,076 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/skyfall/
+2023-10-02 17:23:50,199 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/older/
+2023-10-02 17:23:50,328 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/ireland_lng/
+2023-10-02 17:23:50,461 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/test_man/
+2023-10-02 17:23:50,619 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/60_items/
+2023-10-02 17:23:50,786 - src.internal.LentaParser - INFO - Starting parsing https://moslenta.ru/news/city/menyu-makdonaldsa-02-10-2023.htm/
+2023-10-02 17:23:50,908 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/rammstein_simfoniya/
+2023-10-02 17:23:51,026 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/avoska/
+2023-10-02 17:23:51,292 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/babochka/
+2023-10-02 17:23:51,407 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/brnl/
+2023-10-02 17:23:51,538 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/sosedi_dacha/
+2023-10-02 17:23:51,667 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/fitness/
+2023-10-02 17:23:51,783 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/vse/
+2023-10-02 17:23:52,055 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/timoti/
+2023-10-02 17:23:52,178 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/5464748490/
+2023-10-02 17:23:52,417 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/cartierrrrrr/
+2023-10-02 17:23:52,419 - src.internal.LentaParser - INFO - File LentaParser created
+2023-10-02 17:23:52,419 - src.internal.LentaParser - INFO - Returned results
+2023-10-02 17:25:27,500 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:25:27,500 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/parts/news/
+2023-10-02 17:25:27,500 - src.internal.LentaParser - INFO - Getting Url
+2023-10-02 17:25:27,765 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/rec_spain/
+2023-10-02 17:25:27,880 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/ranenny/
+2023-10-02 17:25:28,006 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/cyprus/
+2023-10-02 17:25:28,134 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/fashionable2underwear/
+2023-10-02 17:25:28,248 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/skyfall/
+2023-10-02 17:25:28,366 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/older/
+2023-10-02 17:25:28,483 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/ireland_lng/
+2023-10-02 17:25:28,607 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/test_man/
+2023-10-02 17:25:28,723 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/60_items/
+2023-10-02 17:25:28,883 - src.internal.LentaParser - INFO - Starting parsing https://moslenta.ru/news/city/menyu-makdonaldsa-02-10-2023.htm/
+2023-10-02 17:25:29,034 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/rammstein_simfoniya/
+2023-10-02 17:25:29,322 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/avoska/
+2023-10-02 17:25:29,445 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/babochka/
+2023-10-02 17:25:29,688 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/brnl/
+2023-10-02 17:25:29,808 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/sosedi_dacha/
+2023-10-02 17:25:29,927 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/fitness/
+2023-10-02 17:25:30,049 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/vse/
+2023-10-02 17:25:30,322 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/timoti/
+2023-10-02 17:25:30,594 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/5464748490/
+2023-10-02 17:25:30,713 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/02/cartierrrrrr/
+2023-10-02 17:25:30,715 - src.internal.LentaParser - INFO - File LentaParser created
+2023-10-02 17:25:30,715 - src.internal.LentaParser - INFO - Returned results
