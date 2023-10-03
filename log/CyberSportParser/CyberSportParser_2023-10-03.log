@@ -1,0 +1,881 @@
+2023-10-03 14:40:28,683 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:40:28,683 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:40:28,683 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:40:29,849 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:40:30,564 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:40:31,086 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:40:31,828 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:40:32,344 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:40:32,985 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:40:33,207 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:40:33,517 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:40:34,104 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:40:34,749 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:40:35,361 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:40:38,560 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:40:39,213 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:40:39,786 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:40:40,435 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:40:41,006 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:40:41,574 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:40:42,090 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:40:42,836 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:40:43,368 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:40:43,866 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:40:44,506 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:40:45,063 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:40:45,548 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:40:46,147 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:40:46,760 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:40:47,305 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:40:47,870 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1030801771.html
+2023-10-03 14:40:48,482 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:40:48,962 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:40:49,181 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:40:49,372 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:40:49,925 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:40:50,231 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:40:50,776 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:40:51,374 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:40:51,908 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:40:52,108 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:40:52,339 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:40:52,955 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:40:53,507 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:40:54,109 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:40:54,926 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:40:55,564 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:40:55,813 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:40:56,019 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:40:56,609 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:40:57,120 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1107121190.html
+2023-10-03 14:40:57,876 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1085314792.html
+2023-10-03 14:40:58,608 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051753994.html
+2023-10-03 14:40:59,184 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051469701.html
+2023-10-03 14:40:59,757 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051304339.html
+2023-10-03 14:41:00,351 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049932393.html
+2023-10-03 14:41:01,015 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049148078.html
+2023-10-03 14:41:01,542 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1048318036.html
+2023-10-03 14:41:02,149 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1046378531.html
+2023-10-03 14:41:03,100 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1042363179.html
+2023-10-03 14:41:03,103 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:41:03,105 - src.internal.CyberSportParser - INFO - File CyberSportParser created
+2023-10-03 14:41:03,105 - src.internal.CyberSportParser - INFO - Returned results
+2023-10-03 14:42:29,745 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:42:29,745 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/news/top/
+2023-10-03 14:42:29,746 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:42:31,081 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115512516-scream-luchshij-po-xedshhotam-v-istorii-csgo-b1t-na-vtorom-meste.html
+2023-10-03 14:42:31,845 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115493234-g2-vykupila-slot-sostava-ex-the-guard-v-severoamerikanskoj-lige-po-val.html
+2023-10-03 14:42:32,583 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115490762-sozdatelej-chitov-dlya-valorant-arestovali-v-kitae-oni-zarabotali-4-ml.html
+2023-10-03 14:42:34,276 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115483588-gladiators-stali-edinstvennym-klubom-iz-doty-v-nominaczii-komanda-goda.html
+2023-10-03 14:42:34,845 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115473810-nitr0-mozhet-vernutsya-v-valorant-on-stanet-igrokom-novogo-sostava-m80.html
+2023-10-03 14:42:35,313 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115469213-gladiators-v-grand-finale-betboom-dacha.html
+2023-10-03 14:42:35,839 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115453936-novyj-patch-v-dote-fn-mozhet-vojti-vo-vtoroj-sostav-spirit-ajsberga-ki.html
+2023-10-03 14:42:36,417 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115453370-riot-obnovila-pravila-transferov-okno-budet-dlitsya-s-sentyabrya-po-av.html
+2023-10-03 14:42:37,028 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115444968-skonchalsya-23-letnij-kolumbijskij-igrok-kru-daveeys.html
+2023-10-03 14:42:37,624 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115441354-zagadochnyj-transfer-v-dote-sumail-v-secret-virtuspro-vyletela-iz-top-.html
+2023-10-03 14:42:38,178 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115435182-dukalis-valorant-luchshe-chem-csgo-no-cs-2-mne-pryam-ochen-silno-ponra.html
+2023-10-03 14:42:38,865 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115430795-nix-pomnyu-stolko-deneg-potratil-chtoby-vybit-nozh-v-csgo-poetomu-ya-l.html
+2023-10-03 14:42:39,511 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115426957-entity-vyshla-na-the-international-futbolist-xolland-rasskazal-o-lyubi.html
+2023-10-03 14:42:40,020 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115426026-guard-poteryala-slot-v-amerikanskoj-lige-po-valorant-iz-za-prosrochenn.html
+2023-10-03 14:42:40,911 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cinema/1115423550-ban-afflek-v-valorant-igraet-na-kay-o-i-raze-akter-nedovolen-nerfom-je.html
+2023-10-03 14:42:42,051 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115417902-nix-o-komyuniti-kastax-ya-nedosyagaem-dlya-svoix-konkurentov-bez-obid-.html
+2023-10-03 14:42:42,804 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115362334-raspisanie-matchej-valorant-champions-2023.html
+2023-10-03 14:42:43,300 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115411364-paper-rex-s-rossiyainom-samsingom-v-sostave-vyshla-v-grandfinal-valora.html
+2023-10-03 14:42:43,958 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115408280-prizovoj-fond-valorant-champions-2023-popolnitsya-na-20-millionov-doll.html
+2023-10-03 14:42:44,518 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115404802-zywoo-valorant-slozhnee-csgo-ty-vidish-pticzu-sobaku-novuyu-sobaku-v-n.html
+2023-10-03 14:42:45,499 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115399916-nix-o-chm-po-valorant-riot-na-100-let-operezhaet-ostalnye-disczipliny-.html
+2023-10-03 14:42:45,977 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115392795-dyrachyo-ya-ne-igrayu-v-cs-u-menya-4-uroven-faceit-v-valorant-platina.html
+2023-10-03 14:42:46,511 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115389007-nix-i-ns-pokazhut-kvaly-bez-zaderzhki-dyrachyo-zabanili-na-tviche-po-o.html
+2023-10-03 14:42:47,108 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115381057-nigma-na-betboom-dacha-1win-podobralas-k-iem-sydney-god-of-war-ragnaro.html
+2023-10-03 14:42:47,654 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115378767-riot-anonsirovala-bolee-40-turnirov-po-valorant-oni-projdut-v-mezhsezo.html
+2023-10-03 14:42:48,168 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115369971-transfery-i-bagi-v-dote-trolling-syna-avtora-baldur-s-gate-papich-sogl.html
+2023-10-03 14:42:48,877 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115367512-navi-oshtrafovali-na-chm-po-valorant-iz-za-angela-upotrebivshego-snyus.html
+2023-10-03 14:42:49,387 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115364065-niko-mog-okazatsya-v-navi-cs-2-vyjdet-ne-pozdnee-23-sentyabrya-lomanie.html
+2023-10-03 14:42:49,903 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115363727-dyrachyo-igrayu-v-valorant-u-menya-tolko-19-j-uroven-ya-nub-tam-kazhet.html
+2023-10-03 14:42:50,445 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115353535-valve-zapretit-franshiznye-ligi-esl-i-blast-gilgir-pokinul-one-move-vy.html
+2023-10-03 14:42:51,001 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115351009-ax1le-vernetsya-v-sostav-cloud9-rodjer-v-nemiga-dzhenner-i-shalame-ras.html
+2023-10-03 14:42:51,741 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115346829-liquid-poobeshhala-pozhertvovat-fondam-po-pravam-zhenshhin-i-predstavi.html
+2023-10-03 14:42:52,244 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115337698-mejdzhor-po-valorant-projdet-v-kitae-v-2024-godu-v-chest-vyxoda-shuter.html
+2023-10-03 14:42:52,806 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115332657-quest-aster-i-gladiators-v-top-8-riyada-s-kevina-spejsi-snyali-vse-obv.html
+2023-10-03 14:42:53,345 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115330175-spirit-v-top-6-riyada-ramzes-zatrolil-pyura-i-drugie-novosti-utra.html
+2023-10-03 14:42:53,995 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115321304-navi-razgromila-koi-s-shejdosom-i-treksom-i-proshli-na-chempionat-mira.html
+2023-10-03 14:42:54,833 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115313995-empire-prekratila-sushhestvovanie-korb3n-napisal-chto-paczient-mertv-m.html
+2023-10-03 14:42:55,921 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115290082-v-valorant-poyavitsya-tematicheskij-skin-dlya-nozha-v-chest-vyxoda-shu.html
+2023-10-03 14:42:56,621 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115284054-sudya-po-lol-o-bane-pyura-eto-organizatorov-u-igroka-tolko-odna-zadach.html
+2023-10-03 14:42:57,205 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115279834-9pandas-v-top-6-mejdzhora-rekordy-ramzesa-i-drugie-novosti-utra.html
+2023-10-03 14:42:57,818 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115275251-pure-smotrel-strim-niksa-vo-vremya-pauzy-4-komandy-iz-ve-na-ti-tnt-per.html
+2023-10-03 14:42:58,440 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115270767-spirit-i-9pandas-na-ti12-bag-na-mejdzhore-na-bali-navi-pokinuli-top-30.html
+2023-10-03 14:42:59,030 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115257678-interz-pro-podrazdelenie-riot-games-v-sng-oni-nichego-ne-delayut-farmy.html
+2023-10-03 14:42:59,660 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115254830-team-sexy-v-pervom-divizione-dpc-xasbik-gotov-strimit-na-kick-v-genshi.html
+2023-10-03 14:43:00,251 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115251280-kinematograficheskij-rolik-pro-deadlock-novogo-agenta-valorant.html
+2023-10-03 14:43:01,627 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115248680-cloud9-blizka-k-podpisaniyu-perfekto-i-elektronika-betboom-sygraet-s-p.html
+2023-10-03 14:43:02,441 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115238728-liquid-s-rossiyanami-natsom-i-redgarom-vmeste-s-fnatic-s-xroniklom-upa.html
+2023-10-03 14:43:03,219 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115235003-zhenskuyu-komandu-po-valorant-zabanili-na-vsex-turnirax-rukovodstvo-sk.html
+2023-10-03 14:43:03,878 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/streamers-twitch/1115232576-strimer-disguised-toas-potratil-na-kibersportivnyj-klub-1-mln-sejchas-.html
+2023-10-03 14:43:04,388 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115226224-navi-s-angelom-vyleteli-s-mejdzhora-po-valorant-v-tokio-na-poslednem-m.html
+2023-10-03 14:43:04,867 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115222023-pered-finalom-blast-spring-proshla-minuta-molchaniya-v-chest-valorante.html
+2023-10-03 14:43:05,435 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115216665-v-sedmom-sezone-moskovskogo-kibersporta-pouchastvovalo-15-tysyach-gejm.html
+2023-10-03 14:43:06,231 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115212820-vyshlo-krupnoe-obnovlenie-cs-2-twitch-izvinilsya-pered-strimerami-vita.html
+2023-10-03 14:43:06,682 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115212170-igrok-vitality-po-valorant-skonchalsya-ego-poslednimi-slovami-byli-dob.html
+2023-10-03 14:43:07,456 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115178031-s1mple-podderzhal-valorantera-sika-esli-sam-etogo-ne-xochesh-to-nikto-.html
+2023-10-03 14:43:07,949 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115170646-hiko-ya-dumayu-vernutsya-v-counter-strike-posle-reliza-cs2-fanaty-valo.html
+2023-10-03 14:43:08,700 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115169121-vk-play-anonsirovala-turniry-po-dote-csgo-hs-fifa-i-drugim-igram-s-ezh.html
+2023-10-03 14:43:09,244 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115165429-liquid-s-rossiyanami-natsom-i-redgarom-vyigrala-ligu-po-valorant-fnati.html
+2023-10-03 14:43:09,854 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115163914-kibersport-stal-oficzialnym-vidom-sporta-v-shveczii.html
+2023-10-03 14:43:10,612 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115162031-yatoro-ya-igrayu-v-valorant-mne-ochen-nravitsya-cs-mertvaya-igra-zhdu-.html
+2023-10-03 14:43:11,410 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115159143-navi-proshla-na-mejdzhor-po-valorant-v-tokio.html
+2023-10-03 14:43:11,956 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115156191-liquid-s-natsom-i-redgarom-vybila-navi-v-nizhnyuyu-setku-plej-off-ligi.html
+2023-10-03 14:43:12,582 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115155480-osnovatel-faze-klub-teryaet-na-kibersporte-700-tysyach-kazhdyj-mesyacz.html
+2023-10-03 14:43:13,288 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115152272-rynok-rossijskix-kompyuternyx-klubov-vyros-v-1-5-raza-za-tri-goda.html
+2023-10-03 14:43:13,868 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115149017-g2-gozen-s-rossiyankoj-glance-vyigrala-krupnyj-turnir-po-valorant-i-za.html
+2023-10-03 14:43:14,400 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115146498-vitality-i-gamerlegion-v-finale-mejdzhora-pobeda-9pandas-i-betboom-int.html
+2023-10-03 14:43:14,955 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/streamers-twitch/1115143504-strimer-xqc-postavil-dotu-v-s-tir-v-tope-igr-csgo-okazalas-vyshe-valor.html
+2023-10-03 14:43:15,398 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115512516-scream-luchshij-po-xedshhotam-v-istorii-csgo-b1t-na-vtorom-meste.html
+2023-10-03 14:43:15,590 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115493234-g2-vykupila-slot-sostava-ex-the-guard-v-severoamerikanskoj-lige-po-val.html
+2023-10-03 14:43:15,777 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115490762-sozdatelej-chitov-dlya-valorant-arestovali-v-kitae-oni-zarabotali-4-ml.html
+2023-10-03 14:43:16,452 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115483588-gladiators-stali-edinstvennym-klubom-iz-doty-v-nominaczii-komanda-goda.html
+2023-10-03 14:43:16,661 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115473810-nitr0-mozhet-vernutsya-v-valorant-on-stanet-igrokom-novogo-sostava-m80.html
+2023-10-03 14:43:17,352 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115469213-gladiators-v-grand-finale-betboom-dacha.html
+2023-10-03 14:43:17,567 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115453936-novyj-patch-v-dote-fn-mozhet-vojti-vo-vtoroj-sostav-spirit-ajsberga-ki.html
+2023-10-03 14:43:18,102 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115453370-riot-obnovila-pravila-transferov-okno-budet-dlitsya-s-sentyabrya-po-av.html
+2023-10-03 14:43:18,284 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115444968-skonchalsya-23-letnij-kolumbijskij-igrok-kru-daveeys.html
+2023-10-03 14:43:18,894 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115441354-zagadochnyj-transfer-v-dote-sumail-v-secret-virtuspro-vyletela-iz-top-.html
+2023-10-03 14:43:19,570 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115435182-dukalis-valorant-luchshe-chem-csgo-no-cs-2-mne-pryam-ochen-silno-ponra.html
+2023-10-03 14:43:19,805 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115430795-nix-pomnyu-stolko-deneg-potratil-chtoby-vybit-nozh-v-csgo-poetomu-ya-l.html
+2023-10-03 14:43:20,334 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115426957-entity-vyshla-na-the-international-futbolist-xolland-rasskazal-o-lyubi.html
+2023-10-03 14:43:20,812 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115426026-guard-poteryala-slot-v-amerikanskoj-lige-po-valorant-iz-za-prosrochenn.html
+2023-10-03 14:43:21,546 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cinema/1115423550-ban-afflek-v-valorant-igraet-na-kay-o-i-raze-akter-nedovolen-nerfom-je.html
+2023-10-03 14:43:21,921 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115417902-nix-o-komyuniti-kastax-ya-nedosyagaem-dlya-svoix-konkurentov-bez-obid-.html
+2023-10-03 14:43:22,378 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115362334-raspisanie-matchej-valorant-champions-2023.html
+2023-10-03 14:43:22,638 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115411364-paper-rex-s-rossiyainom-samsingom-v-sostave-vyshla-v-grandfinal-valora.html
+2023-10-03 14:43:23,175 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115408280-prizovoj-fond-valorant-champions-2023-popolnitsya-na-20-millionov-doll.html
+2023-10-03 14:43:23,444 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115404802-zywoo-valorant-slozhnee-csgo-ty-vidish-pticzu-sobaku-novuyu-sobaku-v-n.html
+2023-10-03 14:43:23,667 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115399916-nix-o-chm-po-valorant-riot-na-100-let-operezhaet-ostalnye-disczipliny-.html
+2023-10-03 14:43:23,871 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115392795-dyrachyo-ya-ne-igrayu-v-cs-u-menya-4-uroven-faceit-v-valorant-platina.html
+2023-10-03 14:43:24,069 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115389007-nix-i-ns-pokazhut-kvaly-bez-zaderzhki-dyrachyo-zabanili-na-tviche-po-o.html
+2023-10-03 14:43:24,269 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115381057-nigma-na-betboom-dacha-1win-podobralas-k-iem-sydney-god-of-war-ragnaro.html
+2023-10-03 14:43:24,492 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115378767-riot-anonsirovala-bolee-40-turnirov-po-valorant-oni-projdut-v-mezhsezo.html
+2023-10-03 14:43:25,019 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115369971-transfery-i-bagi-v-dote-trolling-syna-avtora-baldur-s-gate-papich-sogl.html
+2023-10-03 14:43:25,276 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115367512-navi-oshtrafovali-na-chm-po-valorant-iz-za-angela-upotrebivshego-snyus.html
+2023-10-03 14:43:26,103 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115364065-niko-mog-okazatsya-v-navi-cs-2-vyjdet-ne-pozdnee-23-sentyabrya-lomanie.html
+2023-10-03 14:43:26,303 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115363727-dyrachyo-igrayu-v-valorant-u-menya-tolko-19-j-uroven-ya-nub-tam-kazhet.html
+2023-10-03 14:43:26,932 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115353535-valve-zapretit-franshiznye-ligi-esl-i-blast-gilgir-pokinul-one-move-vy.html
+2023-10-03 14:43:27,133 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115351009-ax1le-vernetsya-v-sostav-cloud9-rodjer-v-nemiga-dzhenner-i-shalame-ras.html
+2023-10-03 14:43:28,140 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115346829-liquid-poobeshhala-pozhertvovat-fondam-po-pravam-zhenshhin-i-predstavi.html
+2023-10-03 14:43:28,644 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115337698-mejdzhor-po-valorant-projdet-v-kitae-v-2024-godu-v-chest-vyxoda-shuter.html
+2023-10-03 14:43:28,845 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115332657-quest-aster-i-gladiators-v-top-8-riyada-s-kevina-spejsi-snyali-vse-obv.html
+2023-10-03 14:43:29,479 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115330175-spirit-v-top-6-riyada-ramzes-zatrolil-pyura-i-drugie-novosti-utra.html
+2023-10-03 14:43:29,665 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115321304-navi-razgromila-koi-s-shejdosom-i-treksom-i-proshli-na-chempionat-mira.html
+2023-10-03 14:43:30,040 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115313995-empire-prekratila-sushhestvovanie-korb3n-napisal-chto-paczient-mertv-m.html
+2023-10-03 14:43:30,506 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115290082-v-valorant-poyavitsya-tematicheskij-skin-dlya-nozha-v-chest-vyxoda-shu.html
+2023-10-03 14:43:30,830 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115284054-sudya-po-lol-o-bane-pyura-eto-organizatorov-u-igroka-tolko-odna-zadach.html
+2023-10-03 14:43:31,536 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115279834-9pandas-v-top-6-mejdzhora-rekordy-ramzesa-i-drugie-novosti-utra.html
+2023-10-03 14:43:31,738 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115275251-pure-smotrel-strim-niksa-vo-vremya-pauzy-4-komandy-iz-ve-na-ti-tnt-per.html
+2023-10-03 14:43:31,946 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115270767-spirit-i-9pandas-na-ti12-bag-na-mejdzhore-na-bali-navi-pokinuli-top-30.html
+2023-10-03 14:43:32,142 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115257678-interz-pro-podrazdelenie-riot-games-v-sng-oni-nichego-ne-delayut-farmy.html
+2023-10-03 14:43:32,381 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115254830-team-sexy-v-pervom-divizione-dpc-xasbik-gotov-strimit-na-kick-v-genshi.html
+2023-10-03 14:43:33,011 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115251280-kinematograficheskij-rolik-pro-deadlock-novogo-agenta-valorant.html
+2023-10-03 14:43:33,697 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115248680-cloud9-blizka-k-podpisaniyu-perfekto-i-elektronika-betboom-sygraet-s-p.html
+2023-10-03 14:43:33,891 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115238728-liquid-s-rossiyanami-natsom-i-redgarom-vmeste-s-fnatic-s-xroniklom-upa.html
+2023-10-03 14:43:34,574 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115235003-zhenskuyu-komandu-po-valorant-zabanili-na-vsex-turnirax-rukovodstvo-sk.html
+2023-10-03 14:43:34,880 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/streamers-twitch/1115232576-strimer-disguised-toas-potratil-na-kibersportivnyj-klub-1-mln-sejchas-.html
+2023-10-03 14:43:35,062 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115226224-navi-s-angelom-vyleteli-s-mejdzhora-po-valorant-v-tokio-na-poslednem-m.html
+2023-10-03 14:43:35,671 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115222023-pered-finalom-blast-spring-proshla-minuta-molchaniya-v-chest-valorante.html
+2023-10-03 14:43:36,393 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115216665-v-sedmom-sezone-moskovskogo-kibersporta-pouchastvovalo-15-tysyach-gejm.html
+2023-10-03 14:43:36,938 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115212820-vyshlo-krupnoe-obnovlenie-cs-2-twitch-izvinilsya-pered-strimerami-vita.html
+2023-10-03 14:43:37,291 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115212170-igrok-vitality-po-valorant-skonchalsya-ego-poslednimi-slovami-byli-dob.html
+2023-10-03 14:43:37,919 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115178031-s1mple-podderzhal-valorantera-sika-esli-sam-etogo-ne-xochesh-to-nikto-.html
+2023-10-03 14:43:38,116 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115170646-hiko-ya-dumayu-vernutsya-v-counter-strike-posle-reliza-cs2-fanaty-valo.html
+2023-10-03 14:43:38,654 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115169121-vk-play-anonsirovala-turniry-po-dote-csgo-hs-fifa-i-drugim-igram-s-ezh.html
+2023-10-03 14:43:39,187 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115165429-liquid-s-rossiyanami-natsom-i-redgarom-vyigrala-ligu-po-valorant-fnati.html
+2023-10-03 14:43:39,823 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115163914-kibersport-stal-oficzialnym-vidom-sporta-v-shveczii.html
+2023-10-03 14:43:40,446 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115162031-yatoro-ya-igrayu-v-valorant-mne-ochen-nravitsya-cs-mertvaya-igra-zhdu-.html
+2023-10-03 14:43:40,717 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115159143-navi-proshla-na-mejdzhor-po-valorant-v-tokio.html
+2023-10-03 14:43:40,904 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115156191-liquid-s-natsom-i-redgarom-vybila-navi-v-nizhnyuyu-setku-plej-off-ligi.html
+2023-10-03 14:43:41,345 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115155480-osnovatel-faze-klub-teryaet-na-kibersporte-700-tysyach-kazhdyj-mesyacz.html
+2023-10-03 14:43:41,940 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115152272-rynok-rossijskix-kompyuternyx-klubov-vyros-v-1-5-raza-za-tri-goda.html
+2023-10-03 14:43:42,640 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/valorant/1115149017-g2-gozen-s-rossiyankoj-glance-vyigrala-krupnyj-turnir-po-valorant-i-za.html
+2023-10-03 14:43:42,895 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115146498-vitality-i-gamerlegion-v-finale-mejdzhora-pobeda-9pandas-i-betboom-int.html
+2023-10-03 14:43:43,493 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/streamers-twitch/1115143504-strimer-xqc-postavil-dotu-v-s-tir-v-tope-igr-csgo-okazalas-vyshe-valor.html
+2023-10-03 14:43:43,496 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:43:43,502 - src.internal.CyberSportParser - INFO - File CyberSportParser created
+2023-10-03 14:43:43,502 - src.internal.CyberSportParser - INFO - Returned results
+2023-10-03 14:44:10,977 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:44:10,978 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru//news/top/
+2023-10-03 14:44:10,978 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:44:12,259 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115518011-bl1ad3-o-navi-my-eshhe-ne-gotovy-kak-komanda-k-zavoevaniyu-trofeya.html
+2023-10-03 14:44:13,169 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:44:13,712 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:44:14,186 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115517969-v-counter-strike-v-sentyabrya-sygralo-bolee-31-mln-chelovek.html
+2023-10-03 14:44:15,058 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516726-rostik-niksu-kogda-tebe-govoryat-prufani-ty-otvechaesh-sprosite-u-zaur.html
+2023-10-03 14:44:15,625 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115513919-torzsi-iz-mouz-stal-samym-czennym-igrokom-esl-pro-league-18-po-versii-.html
+2023-10-03 14:44:16,279 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/games/1115511301-steam-mozhno-popolnyat-rublyami-cherez-qiwi-servis-beret-komissiyu-v-r.html
+2023-10-03 14:44:16,997 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115508401-rostik-vyzval-niksa-na-match-1-na-1-frukt-esli-ty-xochesh-poigrat-pish.html
+2023-10-03 14:44:17,807 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115506077-dota-lagaet-igroki-zhaluyutsya-na-slajd-shou-v-tom-chisle-v-shou-match.html
+2023-10-03 14:44:18,435 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:44:19,463 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/games/1089593841-raspisanie-blizhajshix-rasprodazh-steam-2020.html
+2023-10-03 14:44:20,086 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115354066-prognoz-cloud9-vitality-iem-cologne-2023-cs-go-koefficzienty-na-match-.html
+2023-10-03 14:44:20,867 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/games/1114967375-skachat-demo-resident-evil-4-remake-na-pk-v-rossii-ssylka-na-skachivan.html
+2023-10-03 14:44:21,455 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113199623-prognoz-na-match-virtuspro-heroic-na-iem-rio-major-2022.html
+2023-10-03 14:44:21,956 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113173057-prognoz-na-match-heroic-furia-na-iem-rio-major-2022.html
+2023-10-03 14:44:22,591 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113152604-prognoz-na-match-mouz-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:23,187 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113114502-prognoz-na-match-furia-navi-na-iem-rio-major-2022.html
+2023-10-03 14:44:23,749 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113083574-prognoz-na-match-team-liquid-team-spirit-na-iem-rio-major-2022.html
+2023-10-03 14:44:24,285 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113058415-prognoz-na-match-team-spirit-sprout-na-iem-rio-major-2022.html
+2023-10-03 14:44:24,816 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113039957-prognoz-na-match-team-spirit-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:25,364 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1112993704-prognoz-na-match-heroic-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:25,906 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1112946605-prognoz-na-match-virtuspro-fnatic-na-iem-rio-major-2022.html
+2023-10-03 14:44:26,388 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1112925594-prognoz-na-match-vitality-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:27,373 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1112907048-prognoz-na-match-mouz-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:28,177 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:44:28,713 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:44:29,341 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:44:29,892 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:44:30,510 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:44:31,093 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:44:31,874 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:44:32,477 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:44:33,136 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:44:33,639 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:44:34,177 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:44:34,676 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:44:35,290 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:44:35,897 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:44:36,572 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:44:37,660 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:44:38,229 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:44:38,774 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:44:40,398 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/games/1089593841-raspisanie-blizhajshix-rasprodazh-steam-2020.html
+2023-10-03 14:44:40,877 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1115354066-prognoz-cloud9-vitality-iem-cologne-2023-cs-go-koefficzienty-na-match-.html
+2023-10-03 14:44:41,269 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/games/1114967375-skachat-demo-resident-evil-4-remake-na-pk-v-rossii-ssylka-na-skachivan.html
+2023-10-03 14:44:41,880 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113199623-prognoz-na-match-virtuspro-heroic-na-iem-rio-major-2022.html
+2023-10-03 14:44:42,556 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113173057-prognoz-na-match-heroic-furia-na-iem-rio-major-2022.html
+2023-10-03 14:44:43,041 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113152604-prognoz-na-match-mouz-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:43,250 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113114502-prognoz-na-match-furia-navi-na-iem-rio-major-2022.html
+2023-10-03 14:44:43,740 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113083574-prognoz-na-match-team-liquid-team-spirit-na-iem-rio-major-2022.html
+2023-10-03 14:44:43,936 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113058415-prognoz-na-match-team-spirit-sprout-na-iem-rio-major-2022.html
+2023-10-03 14:44:44,150 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1113039957-prognoz-na-match-team-spirit-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:44,387 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1112993704-prognoz-na-match-heroic-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:44,870 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1112946605-prognoz-na-match-virtuspro-fnatic-na-iem-rio-major-2022.html
+2023-10-03 14:44:45,061 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1112925594-prognoz-na-match-vitality-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:45,253 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/cs/1112907048-prognoz-na-match-mouz-virtuspro-na-iem-rio-major-2022.html
+2023-10-03 14:44:45,453 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:44:45,667 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:44:46,229 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:44:46,776 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:44:47,408 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:44:47,684 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:44:48,223 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:44:48,449 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:44:49,103 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:44:49,700 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:44:50,351 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:44:50,862 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:44:51,367 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:44:51,950 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:44:52,145 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:44:52,728 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:44:53,249 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:44:53,253 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:44:53,253 - src.internal.CyberSportParser - ERROR - dump() takes 2 positional arguments but 74 positional arguments (and 2 keyword-only arguments) were given
+2023-10-03 14:44:53,253 - src.internal.CyberSportParser - INFO - Write file not complete CyberSportParser
+2023-10-03 14:44:53,253 - src.internal.CyberSportParser - INFO - Returned results
+2023-10-03 14:47:38,689 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:47:38,689 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:47:38,689 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:47:39,294 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:47:40,006 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:47:40,713 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:47:41,545 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:47:41,729 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:47:42,271 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:47:42,770 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:47:42,977 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:47:43,698 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:47:44,370 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:47:45,184 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:47:45,842 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:47:46,542 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:47:47,192 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:47:47,755 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:47:48,374 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:47:49,271 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:47:49,830 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:47:50,369 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:47:50,929 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:47:51,657 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:47:52,233 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:47:53,057 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:47:53,621 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:47:54,227 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:47:54,872 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:47:55,402 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:47:55,940 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1030801771.html
+2023-10-03 14:47:56,452 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:47:56,661 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:47:57,258 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:47:57,445 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:47:57,689 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:47:58,215 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:47:58,416 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:47:58,877 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:47:59,497 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:47:59,719 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:48:00,253 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:48:00,474 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:48:00,995 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:48:01,358 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:48:01,569 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:48:01,795 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:48:02,036 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:48:02,816 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:48:03,011 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:48:03,516 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1107121190.html
+2023-10-03 14:48:04,313 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1085314792.html
+2023-10-03 14:48:04,977 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051753994.html
+2023-10-03 14:48:05,537 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051469701.html
+2023-10-03 14:48:06,106 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051304339.html
+2023-10-03 14:48:06,622 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049932393.html
+2023-10-03 14:48:07,136 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049148078.html
+2023-10-03 14:48:07,813 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1048318036.html
+2023-10-03 14:48:08,356 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1046378531.html
+2023-10-03 14:48:08,828 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1042363179.html
+2023-10-03 14:48:08,831 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:48:08,831 - src.internal.CyberSportParser - INFO - File CyberSportParser created
+2023-10-03 14:48:08,831 - src.internal.CyberSportParser - INFO - Returned results
+2023-10-03 14:48:30,250 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:48:30,250 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:48:30,250 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:48:30,963 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:48:31,290 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:48:31,510 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:48:32,127 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:48:32,405 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:48:32,605 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:48:32,846 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:48:33,052 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:48:33,268 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:48:33,859 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:48:34,061 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:48:34,258 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:48:34,500 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:48:34,724 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:48:35,802 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:48:36,023 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:48:36,295 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:48:36,494 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:48:36,685 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:48:37,149 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:48:37,376 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:48:37,935 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:48:38,134 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:48:38,668 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:48:38,876 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:48:39,103 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:48:39,640 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:48:40,297 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1030801771.html
+2023-10-03 14:48:40,511 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:48:40,703 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:48:40,892 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:48:41,280 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:48:41,476 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:48:41,674 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:48:41,873 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:48:42,055 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:48:42,321 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:48:42,513 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:48:42,746 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:48:43,321 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:48:43,531 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:48:43,736 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:48:44,228 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:48:44,430 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:48:45,070 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:48:45,315 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:48:45,556 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:48:45,753 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1107121190.html
+2023-10-03 14:48:46,046 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1085314792.html
+2023-10-03 14:48:46,251 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051753994.html
+2023-10-03 14:48:46,442 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051469701.html
+2023-10-03 14:48:46,670 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051304339.html
+2023-10-03 14:48:46,884 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049932393.html
+2023-10-03 14:48:47,457 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049148078.html
+2023-10-03 14:48:47,996 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1048318036.html
+2023-10-03 14:48:48,759 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1046378531.html
+2023-10-03 14:48:48,986 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1042363179.html
+2023-10-03 14:48:48,992 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:48:48,993 - src.internal.CyberSportParser - INFO - File CyberSportParser created
+2023-10-03 14:48:48,993 - src.internal.CyberSportParser - INFO - Returned results
+2023-10-03 14:49:28,149 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:49:28,150 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:49:28,150 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:49:28,913 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:49:28,913 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:49:32,046 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:49:32,046 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:49:33,147 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:49:33,147 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:49:34,081 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:49:34,081 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:49:35,339 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:49:35,778 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:49:36,696 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:49:37,681 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:49:38,136 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:49:38,988 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:49:39,384 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:49:40,117 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:49:40,498 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:49:41,637 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:49:42,349 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:49:43,116 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:49:43,962 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:49:44,627 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:49:45,393 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:49:46,326 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:49:47,189 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:49:48,232 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:49:52,710 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:49:53,412 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:49:54,208 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:49:54,995 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:49:55,801 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:49:56,558 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:49:57,294 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:49:57,961 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:49:58,784 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:49:59,507 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1030801771.html
+2023-10-03 14:50:00,338 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:50:00,799 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:50:01,175 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:50:01,550 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:50:01,921 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:50:02,284 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:50:02,687 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:50:03,038 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:50:03,810 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:50:04,173 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:50:04,899 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:50:05,249 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:50:05,879 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:50:06,295 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:50:06,667 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:50:07,418 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:50:08,116 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:50:08,849 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:50:09,560 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:50:10,384 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1107121190.html
+2023-10-03 14:50:11,232 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1085314792.html
+2023-10-03 14:50:11,916 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051753994.html
+2023-10-03 14:50:12,627 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051469701.html
+2023-10-03 14:50:13,332 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051304339.html
+2023-10-03 14:50:14,173 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049932393.html
+2023-10-03 14:50:14,938 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049148078.html
+2023-10-03 14:50:15,847 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1048318036.html
+2023-10-03 14:50:16,966 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1046378531.html
+2023-10-03 14:50:17,682 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1042363179.html
+2023-10-03 14:50:17,734 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:50:17,734 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:50:23,156 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:50:23,156 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:51:31,754 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:51:31,754 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:51:31,754 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:51:32,551 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:51:33,265 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:51:33,788 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:51:34,766 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:51:35,035 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:51:35,329 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:51:35,571 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:51:35,845 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:51:36,138 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:51:36,832 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:51:37,382 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:51:37,880 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:51:38,425 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:51:38,973 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:51:39,742 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:51:40,248 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:51:40,886 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:51:41,348 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:51:41,985 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:51:42,660 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:51:43,517 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:51:44,118 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:51:44,648 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:51:45,296 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:51:45,945 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:51:46,653 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:51:47,215 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:51:47,921 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1030801771.html
+2023-10-03 14:51:48,632 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:51:49,130 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:51:49,724 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:51:49,931 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:51:50,165 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:51:50,357 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:51:50,788 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:51:51,412 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:51:51,663 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:51:52,222 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:51:52,831 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:51:53,035 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:51:53,637 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:51:53,838 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:51:54,406 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:51:54,613 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:51:54,837 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:51:55,038 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:51:55,556 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:51:56,123 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1107121190.html
+2023-10-03 14:51:56,604 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1085314792.html
+2023-10-03 14:51:57,113 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051753994.html
+2023-10-03 14:51:57,605 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051469701.html
+2023-10-03 14:51:58,124 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051304339.html
+2023-10-03 14:51:58,684 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049932393.html
+2023-10-03 14:51:59,333 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049148078.html
+2023-10-03 14:51:59,884 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1048318036.html
+2023-10-03 14:52:00,671 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1046378531.html
+2023-10-03 14:52:01,373 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1042363179.html
+2023-10-03 14:52:01,377 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:52:01,377 - src.internal.CyberSportParser - ERROR - dump() takes 2 positional arguments but 58 positional arguments (and 2 keyword-only arguments) were given
+2023-10-03 14:52:01,377 - src.internal.CyberSportParser - INFO - Write file not complete CyberSportParser
+2023-10-03 14:52:01,377 - src.internal.CyberSportParser - INFO - Returned results
+2023-10-03 14:52:23,140 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:52:23,141 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:52:23,141 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:52:24,801 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:52:25,565 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:52:26,361 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:52:26,884 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:52:27,336 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:52:27,777 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:52:28,135 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:52:28,995 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:52:29,820 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:52:30,270 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:52:30,639 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:52:31,000 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:52:31,919 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:52:32,607 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:52:32,974 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:52:33,399 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:52:34,160 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:52:34,528 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:52:34,915 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:52:35,272 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:52:35,644 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:52:36,004 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:52:36,480 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:52:36,956 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:52:37,349 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:52:38,166 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:52:38,551 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:52:38,974 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1030801771.html
+2023-10-03 14:52:39,418 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:52:40,150 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:52:40,508 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:52:41,167 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:52:41,600 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:52:42,408 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:52:43,324 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:52:43,692 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:52:44,517 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:52:45,337 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:52:45,706 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:52:46,486 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:52:47,141 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:52:48,052 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:52:48,809 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:52:49,524 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:52:50,367 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:52:50,715 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:52:51,085 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:52:51,471 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1107121190.html
+2023-10-03 14:52:51,956 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1085314792.html
+2023-10-03 14:52:52,687 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051753994.html
+2023-10-03 14:52:53,044 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051469701.html
+2023-10-03 14:52:53,968 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051304339.html
+2023-10-03 14:52:54,829 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049932393.html
+2023-10-03 14:52:55,542 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049148078.html
+2023-10-03 14:52:56,051 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1048318036.html
+2023-10-03 14:52:57,250 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1046378531.html
+2023-10-03 14:52:57,951 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1042363179.html
+2023-10-03 14:52:57,975 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:52:58,047 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:52:58,048 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:53:02,622 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:53:02,622 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:53:10,629 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:53:10,629 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:53:15,096 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:53:15,096 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:53:18,621 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:53:18,622 - src.internal.CyberSportParser - INFO - Getting parsing site: https://cyber.sports.ru/dota2/news/top/
+div tag: div
+div class: short-news
+title tag: a
+title class: short-text
+
+2023-10-03 14:54:04,834 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:54:04,834 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:54:04,834 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:54:05,508 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:54:06,532 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:54:07,207 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:54:07,828 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:54:08,032 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:54:08,727 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:54:08,982 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:54:09,604 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:54:10,197 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:54:10,785 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:54:11,449 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:54:12,092 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:54:12,669 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:54:13,218 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:54:13,912 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:54:14,554 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:54:15,385 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:54:15,983 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:54:16,650 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:54:17,215 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:54:17,779 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:54:18,428 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:54:19,044 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:54:19,590 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:54:20,048 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:54:20,639 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:54:21,160 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:54:21,779 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1030801771.html
+2023-10-03 14:54:22,590 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:54:23,076 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:54:23,271 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:54:23,480 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:54:24,032 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:54:24,235 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:54:24,804 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:54:25,050 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:54:25,702 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:54:26,017 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:54:26,560 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:54:26,782 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:54:27,382 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:54:27,610 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:54:28,114 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:54:28,322 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:54:28,981 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:54:29,190 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:54:29,406 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:54:30,021 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1107121190.html
+2023-10-03 14:54:30,541 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1085314792.html
+2023-10-03 14:54:31,062 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051753994.html
+2023-10-03 14:54:31,590 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051469701.html
+2023-10-03 14:54:32,274 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051304339.html
+2023-10-03 14:54:32,789 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049932393.html
+2023-10-03 14:54:33,397 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049148078.html
+2023-10-03 14:54:34,230 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1048318036.html
+2023-10-03 14:54:34,779 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1046378531.html
+2023-10-03 14:54:35,284 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1042363179.html
+2023-10-03 14:54:35,287 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:54:35,287 - src.internal.CyberSportParser - ERROR - 0
+2023-10-03 14:54:35,287 - src.internal.CyberSportParser - INFO - Write file not complete CyberSportParser
+2023-10-03 14:54:35,287 - src.internal.CyberSportParser - INFO - Returned results
+2023-10-03 14:55:31,913 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:55:31,914 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:55:31,914 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:55:32,959 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:55:33,673 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:55:34,287 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:55:35,027 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:55:35,306 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:55:35,614 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:55:35,838 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:55:36,108 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:55:36,733 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:55:37,441 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:55:38,109 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:55:38,777 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:55:39,315 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:55:39,846 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:55:40,484 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:55:41,286 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:55:42,015 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:55:42,568 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:55:43,112 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:55:43,621 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:55:44,270 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:55:44,748 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:55:45,324 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:55:45,827 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:55:46,390 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:55:46,943 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:55:47,666 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:55:48,246 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1030801771.html
+2023-10-03 14:55:48,726 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:55:49,536 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:55:50,113 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:55:50,773 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:55:51,397 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:55:51,924 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:55:52,140 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:55:52,419 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:55:52,676 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:55:52,886 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:55:53,175 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:55:53,368 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:55:53,572 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:55:53,771 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:55:54,493 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:55:54,701 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:55:54,944 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:55:55,166 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:55:55,396 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:55:55,997 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1107121190.html
+2023-10-03 14:55:56,687 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1085314792.html
+2023-10-03 14:55:57,183 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051753994.html
+2023-10-03 14:55:57,666 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051469701.html
+2023-10-03 14:55:58,515 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051304339.html
+2023-10-03 14:55:59,033 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049932393.html
+2023-10-03 14:55:59,580 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049148078.html
+2023-10-03 14:56:00,030 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1048318036.html
+2023-10-03 14:56:00,573 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1046378531.html
+2023-10-03 14:56:01,363 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1042363179.html
+2023-10-03 14:56:01,365 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:56:01,369 - src.internal.CyberSportParser - INFO - File CyberSportParser created
+2023-10-03 14:56:01,369 - src.internal.CyberSportParser - INFO - Returned results
+2023-10-03 14:56:47,336 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:56:47,337 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:56:47,337 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:56:47,995 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:56:48,673 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:56:49,353 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:56:49,955 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:56:50,570 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:56:51,211 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:56:51,465 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:56:52,067 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:56:52,638 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:56:53,389 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:56:53,979 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:56:54,565 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:56:55,186 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:56:55,748 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:56:56,425 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:56:57,034 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:56:57,638 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:57:12,552 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:57:12,552 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/news/top/
+2023-10-03 14:57:12,553 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:57:13,214 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:57:13,502 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:57:14,091 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:57:14,292 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:57:14,506 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html
+2023-10-03 14:57:14,753 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115516766-mariya-gunina-kak-zhe-nachal-lagat-iphone-vnezapno-posle-prezentaczii-.html
+2023-10-03 14:57:14,998 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115514029-lukawa-po-pervomu-dnyu-v-amerike-est-oshhushhenie-chto-ya-v-alternativ.html
+2023-10-03 14:57:15,196 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html
+2023-10-03 14:57:15,747 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:57:15,945 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:57:16,526 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:57:16,736 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:57:16,966 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:57:17,152 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:57:17,416 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:57:17,982 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:57:18,550 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:57:19,092 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:57:19,605 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:57:20,523 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:57:21,453 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:57:21,992 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:57:22,508 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:57:23,082 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:57:23,568 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:57:24,091 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:57:24,643 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:57:25,227 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1030801771.html
+2023-10-03 14:57:25,460 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1115488127-format-provedeniya-the-international-2023-dota-2-komandy-uchastniki-gd.html
+2023-10-03 14:57:25,985 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112859085-prognoz-na-grand-final-the-international-2022.html
+2023-10-03 14:57:26,188 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112855673-prognoz-na-match-team-secret-team-liquid-na-the-international-2022.html
+2023-10-03 14:57:26,419 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112730468-prognoz-na-match-team-secret-tundra-na-the-international-2022.html
+2023-10-03 14:57:27,084 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112669169-prognoz-na-match-og-team-liquid-na-the-international-2022.html
+2023-10-03 14:57:27,282 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112648363-prognoz-na-match-tundra-team-aster-na-the-international-2022.html
+2023-10-03 14:57:27,478 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112624621-prognoz-na-match-psglgd-boom-na-the-international-2022.html
+2023-10-03 14:57:27,681 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112595765-prognoz-na-match-team-liquid-team-aster-na-the-international-2022.html
+2023-10-03 14:57:27,940 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112586726-prognoz-na-match-royal-never-give-up-entity-gaming-na-the-internationa.html
+2023-10-03 14:57:28,154 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112565659-prognoz-na-match-team-aster-team-spirit-na-the-international-2022.html
+2023-10-03 14:57:28,847 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112545888-prognoz-na-match-og-betboom-team-na-the-international-2022.html
+2023-10-03 14:57:29,443 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112521050-prognoz-na-match-boom-betboom-team-na-the-international-2022.html
+2023-10-03 14:57:29,648 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112497302-prognoz-na-match-team-liquid-betboom-team-na-the-international-2022.html
+2023-10-03 14:57:29,879 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112438625-prognoz-na-match-team-liquid-vici-gaming-na-the-international-2022.html
+2023-10-03 14:57:30,083 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112424570-prognoz-na-match-vici-gaming-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:57:30,330 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112389827-prognoz-na-match-t1-wildcard-gaming-na-the-international-2022.html
+2023-10-03 14:57:30,699 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112388073-prognoz-na-match-team-secret-polaris-esports-na-the-international-2022.html
+2023-10-03 14:57:31,252 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112349251-prognoz-na-match-team-secret-nouns-na-the-international-2022.html
+2023-10-03 14:57:31,821 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1112347303-prognoz-na-match-virtuspro-infamous-na-the-international-2022.html
+2023-10-03 14:57:32,338 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1107121190.html
+2023-10-03 14:57:33,128 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1085314792.html
+2023-10-03 14:57:33,644 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051753994.html
+2023-10-03 14:57:34,152 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051469701.html
+2023-10-03 14:57:34,880 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1051304339.html
+2023-10-03 14:57:35,406 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049932393.html
+2023-10-03 14:57:36,103 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1049148078.html
+2023-10-03 14:57:36,635 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1048318036.html
+2023-10-03 14:57:37,184 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1046378531.html
+2023-10-03 14:57:37,981 - src.internal.CyberSportParser - INFO - Starting parsing https://cyber.sports.ru/dota2/1042363179.html
+2023-10-03 14:57:37,984 - src.internal.CyberSportParser - INFO - Getting Url
+2023-10-03 14:57:37,987 - src.internal.CyberSportParser - INFO - File CyberSportParser created
+2023-10-03 14:57:37,987 - src.internal.CyberSportParser - INFO - Returned results

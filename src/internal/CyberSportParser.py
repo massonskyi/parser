@@ -1,6 +1,7 @@
 import datetime
 import json
 import logging
+from typing import Any
 
 import requests
 from bs4 import BeautifulSoup
@@ -20,6 +21,22 @@ class CyberSportParser(BaseParser):
             self.logger.error(e)
         except Exception as e:
             self.logger.error(e)
+        if kwargs.get('div_tag'):
+            self.div_tag: str = kwargs['div_tag']
+        if kwargs.get('div_class'):
+            self.div_class: str = kwargs['div_class']
+        if kwargs.get('title_tag'):
+            self.title_tag: str = kwargs['title_tag']
+        if kwargs.get('title_class'):
+            self.title_class: str = kwargs['title_class']
+        if kwargs.get('date_tag'):
+            self.date_tag: str = kwargs['date_tag']
+        if kwargs.get('date_class'):
+            self.date_class: str = kwargs['date_class']
+        if kwargs.get('summary_tag'):
+            self.summary_tag: str = kwargs['summary_tag']
+        if kwargs.get('summary_class'):
+            self.summary_class: str = kwargs['summary_class']
 
     def setup_logger(self) -> None:
         self.logger.setLevel(logging.INFO)
@@ -32,7 +49,9 @@ class CyberSportParser(BaseParser):
         self.logger.addHandler(ch)
 
         # Handler to log to file
-        fh = logging.FileHandler(filename='cyber_sport_parser.log')
+        now = datetime.datetime.now()
+        current_time = now.strftime("%Y-%m-%d")
+        fh = logging.FileHandler(filename=f'log/CyberSportParser/{self.__class__.__name__}_{current_time}.log')
         fh.setLevel(logging.INFO)
         fh.setFormatter(formatter)
         self.logger.addHandler(fh)
@@ -79,70 +98,51 @@ class CyberSportParser(BaseParser):
     def construct_news_source(self, news_url: str) -> dict | None:
         soup: BeautifulSoup = self.get_page_content(news_url)
         self.logger.info(f"Starting parsing {news_url}")
-        if "moslenta.ru" in news_url:
-            source_block = soup.find('div', attrs={'data-qa': "lb-block"})
-            source = {
-                'title': source_block.find('h1', attrs={'data-qa': 'lb-topic-header-texts-title'}).get_text(),
-                'sub_title': source_block.find('div', attrs={'data-qa': 'lb-topic-header-texts-lead'}).find(
-                    'p').get_text(),
-                'source': [i.get_text() for i in source_block.find('div', class_='text').findAll('p')]
-            }
-            return source
-        elif "motor.ru" in news_url:
-            source_block = soup.find('div', class_='content')
-            source = {
-                'title': source_block.find('h1', attrs={'data-qa': 'lb-topic-header-texts-title'}).get_text(),
-                'sub_title': source_block.find('span', class_='subtitle').get_text(),
-                'source': [i.get_text() for i in
-                           source_block.find('div', attrs={'data-qa': 'lb-topic-header-texts-lead'}).findAll('p')]
-            }
-            return source
-        else:  # Assuming this is for "https://lenta.ru"
-            source_block = soup.find('div', class_='topic-body')
-            source = {}
-            if source_block.find('h1', class_='topic-body__titles'):
-                source['title'] = source_block.find('h1', class_='topic-body__titles').get_text()
-            if source_block.find('div', class_='topic-body__title-yandex'):
-                source['sub_title'] = source_block.find('div', class_='topic-body__title-yandex').get_text()
-            if source_block.find("div", class_="topic-body__content").find_all('p'):
-                source['source'] = [i.get_text() for i in
-                                    source_block.find("div", class_="topic-body__content").find_all('p')]
-            return source
+        source_block = soup.find('div', class_='content-wrapper')
+        source = {}
+        if title := source_block.find('h1', class_='h1_size_tiny'):
+            source['title'] = title.get_text()
+        if tags := source_block.find('div', class_='news-item__tags-line'):
+            source['tags'] = \
+                f'{[i["href"] for i in tags.find_all("a")]}\t' + f'{[i["title"] for i in tags.findAll("a")]}'
+        if origin := source_block.find('div', class_='news-item__footer-after-news'):
+            source['origin'] = [i.get_text() for i in
+                                origin.find_all('p')]
+        if desc := source_block.find("div", class_="news-item__content"):
+            source['source'] = [i.get_text() for i in
+                                desc.find_all('p')]
+        return source
 
     def add_news_to_list(self, news_block, news_list: list) -> bool:
-        find_h3 = news_block.find(self.title_tag, self.title_class)
-        if not find_h3:
+        find_a = news_block.find(self.title_tag, self.title_class)
+        if not find_a:
             return False
-        news_title = find_h3.get_text()
-        news_url = news_block.find('a')['href']
-        if not news_url.startswith('http'):
-            news_url = "https://lenta.ru" + news_url
+        if not find_a.find('strong'):
+            news_title = find_a.get_text()
+        else:
+            news_title = find_a.find('strong').get_text()
+        news_url = f"https://cyber.sports.ru{find_a['href']}"
         source = self.construct_news_source(news_url)
-        news_list.append({"title": news_title, "url": news_url, "source": source})
+        news_list.append({"title": news_title, "url": news_url, "source": source,
+                          "datetime": f"{news_block.find('b').text} {news_block.find('span').text}"})
         return True
 
     def parse(self):
-        try:
-            response = requests.get(self.url)
-        except Exception as e:
-            self.logger.error(f"Error while making a request to {self.url}: {e}")
-            return
-
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        for article in soup.find_all('div', class_='short-news'):
-            try:
-                title = article.find('strong').text.strip()
-                data = f"{article.find('b').text} {article.find('span').text}"
-                description = article.find('strong').text.strip()
-                url = article.find('a')['href']
-                self.logger.info(f"data: {data}")
-                self.logger.info(f"Title: {title}")
-                self.logger.info(f"Description: {description}")
-                self.logger.info(f"URL: {url}")
-                self.logger.info("--------------------------")  # separator for easier reading of logs
-            except AttributeError as e:
-                self.logger.warning(f"Problem while parsing article: {e}")
+        self.logger.info(f"Starting parsing {self.url}")
+        news_list: list = []
+        soup: BeautifulSoup = self.get_page_content(self.url)
+        news_blocks: Any = soup.find_all(self.div_tag, self.div_class)
+        for news_block in news_blocks:
+            if not self.add_news_to_list(news_block, news_list):
+                break
+        if news_list:
+            res: bool | Exception = self.to_json(news_list)
+            if not res:
+                self.logger.info(f"Write file not complete {self.__class__.__name__}")
+            else:
+                self.logger.info(f"File {self.__class__.__name__} created")
+        self.logger.info(f"Returned results")
+        return news_list
 
     def to_json(self, *args) -> bool:
         """
@@ -153,9 +153,10 @@ class CyberSportParser(BaseParser):
         now = datetime.datetime.now()
         current_time = now.strftime("%Y-%m-%d_%H-%M-%S")
         filename = f"json/{self.__class__.__name__}/{self.__class__.__name__}_{current_time}.json"
+        data = {"Parsing site": f"{self.url}", "news": args[0]}
         try:
             with open(filename, 'w', encoding='utf-8') as f:
-                json.dump(*args, f, ensure_ascii=False, indent=4)
+                json.dump(data, f, ensure_ascii=False, indent=4)
             return True
         except Exception as e:
             self.logger.error(e)

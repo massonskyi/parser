@@ -1,6 +1,3 @@
-from pprint import pprint
-
-from src.internal.LentaParser import LentaParser
 from src.internal.CyberSportParser import CyberSportParser
 
 """
@@ -23,9 +20,32 @@ LENTA_NEWS_PARSER_DICT = {
 CYBERSPORT_NEWS_PARSER_DICT = {
     'div_tag': 'div',
     'div_class': 'short-news',
-    'title_tag': 'div',
-    'title_class': 'short-news'
+    'title_tag': 'a',
+    'title_class': 'short-text'
 }
+CYBERSPORT_NEWS_GAME = {
+    hash('dota'): 'dota2',
+    hash('cs'): 'cs',
+    hash('lol'): 'lol',
+    hash('valorant'): 'valorant',
+    hash('pubg'): 'pubg',
+    hash('cinema'): 'cinema',
+    hash('streamers-twitch'): 'streamers-twitch',
+    hash('games'): 'games',
+    hash('all-news'): str()
+}
+
+
+def choice_cybersport_news(choice: str) -> str:
+    res: str | None = CYBERSPORT_NEWS_GAME.get(hash(choice))
+    if not res:
+        return CYBERSPORT_NEWS_GAME.get(hash('all-news'))
+    return res
+
+
 if __name__ == '__main__':
-    parser = CyberSportParser('https://cyber.sports.ru/dota2/news/top/')
+    parser = CyberSportParser(
+        f'https://cyber.sports.ru/{choice_cybersport_news(input("enter game news: "))}/news/top/',
+        **CYBERSPORT_NEWS_PARSER_DICT
+    )
     parser.parse()

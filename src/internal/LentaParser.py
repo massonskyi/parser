@@ -5,6 +5,7 @@ from typing import Any
 
 import requests
 from bs4 import BeautifulSoup
+from requests import Response
 
 from src.Base import BaseParser
 
@@ -93,7 +94,7 @@ class LentaParser(BaseParser):
 
     def get_page_content(self, url: str) -> BeautifulSoup | None:
         try:
-            response = requests.get(url)
+            response: Response = requests.get(url)
             response.raise_for_status()
             return BeautifulSoup(response.content, 'html.parser')
         except Exception as e:
@@ -104,8 +105,8 @@ class LentaParser(BaseParser):
         soup: BeautifulSoup = self.get_page_content(news_url)
         self.logger.info(f"Starting parsing {news_url}")
         if "moslenta.ru" in news_url:
-            source_block = soup.find('div', attrs={'data-qa': "lb-block"})
-            source = {
+            source_block: Any = soup.find('div', attrs={'data-qa': "lb-block"})
+            source: dict = {
                 'title': source_block.find('h1', attrs={'data-qa': 'lb-topic-header-texts-title'}).get_text(),
                 'sub_title': source_block.find('div', attrs={'data-qa': 'lb-topic-header-texts-lead'}).find(
                     'p').get_text(),
@@ -113,8 +114,8 @@ class LentaParser(BaseParser):
             }
             return source
         elif "motor.ru" in news_url:
-            source_block = soup.find('div', class_='content')
-            source = {
+            source_block: Any = soup.find('div', class_='content')
+            source: dict = {
                 'title': source_block.find('h1', attrs={'data-qa': 'lb-topic-header-texts-title'}).get_text(),
                 'sub_title': source_block.find('span', class_='subtitle').get_text(),
                 'source': [i.get_text() for i in
@@ -122,8 +123,8 @@ class LentaParser(BaseParser):
             }
             return source
         else:  # Assuming this is for "https://lenta.ru"
-            source_block = soup.find('div', class_='topic-body')
-            source = {}
+            source_block: Any = soup.find('div', class_='topic-body')
+            source: dict = {}
             if source_block.find('h1', class_='topic-body__titles'):
                 source['title'] = source_block.find('h1', class_='topic-body__titles').get_text()
             if source_block.find('div', class_='topic-body__title-yandex'):
@@ -134,21 +135,21 @@ class LentaParser(BaseParser):
             return source
 
     def add_news_to_list(self, news_block: Any, news_list: list) -> bool:
-        find_h3 = news_block.find(self.title_tag, self.title_class)
+        find_h3: Any = news_block.find(self.title_tag, self.title_class)
         if not find_h3:
             return False
-        news_title = find_h3.get_text()
-        news_url = news_block.find('a')['href']
+        news_title: Any = find_h3.get_text()
+        news_url: Any = news_block.find('a')['href']
         if not news_url.startswith('http'):
             news_url = "https://lenta.ru" + news_url
-        source = self.construct_news_source(news_url)
+        source: dict = self.construct_news_source(news_url)
         news_list.append({"title": news_title, "url": news_url, "source": source})
         return True
 
     def parse(self) -> list:
         self.logger.info(f"Starting parsing {self.url}")
-        news_list = []
-        soup = self.get_page_content(self.url)
+        news_list: list = []
+        soup: BeautifulSoup = self.get_page_content(self.url)
         news_blocks: Any = soup.find_all(self.div_tag, self.div_class)
         for news_block in news_blocks:
             if not self.add_news_to_list(news_block, news_list):
@@ -168,9 +169,9 @@ class LentaParser(BaseParser):
         :param args:
         :return:
         """
-        now = datetime.datetime.now()
-        current_time = now.strftime("%Y-%m-%d_%H-%M-%S")
-        filename = f"json/{self.__class__.__name__}/{self.__class__.__name__}_{current_time}.json"
+        now: datetime = datetime.datetime.now()
+        current_time: str = now.strftime("%Y-%m-%d_%H-%M-%S")
+        filename: str = f"json/{self.__class__.__name__}/{self.__class__.__name__}_{current_time}.json"
         try:
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(*args, f, ensure_ascii=False, indent=4)
