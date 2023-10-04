@@ -1,0 +1,25 @@
+2023-10-04 16:22:37,969 - src.internal.LentaParser - INFO - Getting Url
+2023-10-04 16:22:37,969 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/parts/news/
+2023-10-04 16:22:37,969 - src.internal.LentaParser - INFO - Getting Url
+2023-10-04 16:22:38,258 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/pensia/
+2023-10-04 16:22:38,386 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/golod/
+2023-10-04 16:22:38,517 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/est_nuans/
+2023-10-04 16:22:38,667 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/volosy/
+2023-10-04 16:22:38,797 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/vkteachers/
+2023-10-04 16:22:38,928 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/pashhh/
+2023-10-04 16:22:39,060 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/polovina_amerikancev/
+2023-10-04 16:22:39,199 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/obstrel_ukraina/
+2023-10-04 16:22:39,325 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/opec/
+2023-10-04 16:22:39,455 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/iphone_fire/
+2023-10-04 16:22:39,574 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/kvartira/
+2023-10-04 16:22:39,705 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/odeskont/
+2023-10-04 16:22:40,054 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/stabilno/
+2023-10-04 16:22:40,185 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/garikatour/
+2023-10-04 16:22:40,312 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/singapore_car/
+2023-10-04 16:22:40,436 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/drunk/
+2023-10-04 16:22:40,569 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/legitimno/
+2023-10-04 16:22:40,693 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/magomedovv/
+2023-10-04 16:22:40,820 - src.internal.LentaParser - INFO - Starting parsing https://lenta.ru/news/2023/10/04/podmena/
+2023-10-04 16:22:40,984 - src.internal.LentaParser - INFO - Starting parsing https://moslenta.ru/news/lyudi/zhena-basty-podarok-04-10-2023.htm/
+2023-10-04 16:22:40,986 - src.internal.LentaParser - INFO - File LentaParser created
+2023-10-04 16:22:40,986 - src.internal.LentaParser - INFO - Returned results

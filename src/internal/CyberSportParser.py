@@ -6,13 +6,18 @@ from typing import Any
 import requests
 from bs4 import BeautifulSoup
 
-from src.Base import BaseParser
+from src.Base import BaseParser, mkdir, isdir
 
 
 class CyberSportParser(BaseParser):
     def __init__(self, url: str, **kwargs) -> None:
+        if not isdir(f"{self.__class__.__name__}", "./json/"):
+            mkdir(f"{self.__class__.__name__}", "./json/")
+        if not isdir(f"{self.__class__.__name__}", './log/'):
+            mkdir(f"{self.__class__.__name__}", './log/')
         self.logger = logging.getLogger(__name__)
-        self.setup_logger()
+        self.setupLogger()
+
         try:
             if type(url) is not str:
                 raise TypeError("URL must be a string")
@@ -21,24 +26,27 @@ class CyberSportParser(BaseParser):
             self.logger.error(e)
         except Exception as e:
             self.logger.error(e)
-        if kwargs.get('div_tag'):
-            self.div_tag: str = kwargs['div_tag']
-        if kwargs.get('div_class'):
-            self.div_class: str = kwargs['div_class']
-        if kwargs.get('title_tag'):
-            self.title_tag: str = kwargs['title_tag']
-        if kwargs.get('title_class'):
-            self.title_class: str = kwargs['title_class']
-        if kwargs.get('date_tag'):
-            self.date_tag: str = kwargs['date_tag']
-        if kwargs.get('date_class'):
-            self.date_class: str = kwargs['date_class']
-        if kwargs.get('summary_tag'):
-            self.summary_tag: str = kwargs['summary_tag']
-        if kwargs.get('summary_class'):
-            self.summary_class: str = kwargs['summary_class']
 
-    def setup_logger(self) -> None:
+        if kwargs.get('divTag'):
+            self.divTag: str = kwargs['divTag']
+        if kwargs.get('divClass'):
+            self.divClass: str = kwargs['divClass']
+        if kwargs.get('titleTag'):
+            self.titleTag: str = kwargs['titleTag']
+        if kwargs.get('titleClass'):
+            self.titleClass: str = kwargs['titleClass']
+        if kwargs.get('dateTag'):
+            self.dateTag: str = kwargs['dateTag']
+        if kwargs.get('dateClass'):
+            self.dateClass: str = kwargs['dateClass']
+        if kwargs.get('summaryTag'):
+            self.summaryTag: str = kwargs['summaryTag']
+        if kwargs.get('summaryClass'):
+            self.summaryClass: str = kwargs['summaryClass']
+
+
+
+    def setupLogger(self) -> None:
         self.logger.setLevel(logging.INFO)
         formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
@@ -50,8 +58,8 @@ class CyberSportParser(BaseParser):
 
         # Handler to log to file
         now = datetime.datetime.now()
-        current_time = now.strftime("%Y-%m-%d")
-        fh = logging.FileHandler(filename=f'log/CyberSportParser/{self.__class__.__name__}_{current_time}.log')
+        currentTime = now.strftime("%Y-%m-%d")
+        fh = logging.FileHandler(filename=f'log/CyberSportParser/{self.__class__.__name__}_{currentTime}.log')
         fh.setLevel(logging.INFO)
         fh.setFormatter(formatter)
         self.logger.addHandler(fh)
@@ -75,18 +83,18 @@ class CyberSportParser(BaseParser):
 
     def __repr__(self) -> str:
         information: str = f'parsing site: {self.url}\n'
-        if hasattr(self, 'div_tag'):
-            information += f'div tag: {self.div_tag}\n'
-        if hasattr(self, 'div_class'):
-            information += f'div class: {self.div_class}\n'
-        if hasattr(self, 'title_tag'):
-            information += f'title tag: {self.title_tag}\n'
-        if hasattr(self, 'title_class'):
-            information += f'title class: {self.title_class}\n'
+        if hasattr(self, 'divTag'):
+            information += f'div tag: {self.divTag}\n'
+        if hasattr(self, 'divClass'):
+            information += f'div class: {self.divClass}\n'
+        if hasattr(self, 'titleTag'):
+            information += f'title tag: {self.titleTag}\n'
+        if hasattr(self, 'titleClass'):
+            information += f'title class: {self.titleClass}\n'
         self.logger.info(f"Getting {information}")
         return information
 
-    def get_page_content(self, url: str) -> BeautifulSoup | None:
+    def getPageContent(self, url: str) -> BeautifulSoup | None:
         try:
             response = requests.get(url)
             response.raise_for_status()
@@ -95,64 +103,64 @@ class CyberSportParser(BaseParser):
             self.logger.error(e)
             return None
 
-    def construct_news_source(self, news_url: str) -> dict | None:
-        soup: BeautifulSoup = self.get_page_content(news_url)
-        self.logger.info(f"Starting parsing {news_url}")
-        source_block = soup.find('div', class_='content-wrapper')
+    def constructNewsSource(self, newsUrl: str) -> dict | None:
+        soup: BeautifulSoup = self.getPageContent(newsUrl)
+        self.logger.info(f"Starting parsing {newsUrl}")
+        sourceBlock = soup.find('div', class_='content-wrapper')
         source = {}
-        if title := source_block.find('h1', class_='h1_size_tiny'):
+        if title := sourceBlock.find('h1', class_='h1_size_tiny'):
             source['title'] = title.get_text()
-        if tags := source_block.find('div', class_='news-item__tags-line'):
+        if tags := sourceBlock.find('div', class_='news-item__tags-line'):
             source['tags'] = \
                 f'{[i["href"] for i in tags.find_all("a")]}\t' + f'{[i["title"] for i in tags.findAll("a")]}'
-        if origin := source_block.find('div', class_='news-item__footer-after-news'):
+        if origin := sourceBlock.find('div', class_='news-item__footer-after-news'):
             source['origin'] = [i.get_text() for i in
                                 origin.find_all('p')]
-        if desc := source_block.find("div", class_="news-item__content"):
+        if desc := sourceBlock.find("div", class_="news-item__content"):
             source['source'] = [i.get_text() for i in
                                 desc.find_all('p')]
         return source
 
-    def add_news_to_list(self, news_block, news_list: list) -> bool:
-        find_a = news_block.find(self.title_tag, self.title_class)
-        if not find_a:
+    def addNewsToList(self, newsBlock, newsList: list) -> bool:
+        findArticle = newsBlock.find(self.titleTag, self.titleClass)
+        if not findArticle:
             return False
-        if not find_a.find('strong'):
-            news_title = find_a.get_text()
+        if not findArticle.find('strong'):
+            newsTitle = findArticle.get_text()
         else:
-            news_title = find_a.find('strong').get_text()
-        news_url = f"https://cyber.sports.ru{find_a['href']}"
-        source = self.construct_news_source(news_url)
-        news_list.append({"title": news_title, "url": news_url, "source": source,
-                          "datetime": f"{news_block.find('b').text} {news_block.find('span').text}"})
+            newsTitle = findArticle.find('strong').get_text()
+        newsUrl = f"https://cyber.sports.ru{findArticle['href']}"
+        source = self.constructNewsSource(newsUrl)
+        newsList.append({"title": newsTitle, "url": newsUrl, "source": source,
+                         "datetime": f"{newsBlock.find('b').text} {newsBlock.find('span').text}"})
         return True
 
     def parse(self):
         self.logger.info(f"Starting parsing {self.url}")
-        news_list: list = []
-        soup: BeautifulSoup = self.get_page_content(self.url)
-        news_blocks: Any = soup.find_all(self.div_tag, self.div_class)
-        for news_block in news_blocks:
-            if not self.add_news_to_list(news_block, news_list):
+        newsList: list = []
+        soup: BeautifulSoup = self.getPageContent(self.url)
+        newsBlocks: Any = soup.find_all(self.divTag, self.divClass)
+        for newsBlock in newsBlocks:
+            if not self.addNewsToList(newsBlock, newsList):
                 break
-        if news_list:
-            res: bool | Exception = self.to_json(news_list)
+        if newsList:
+            res: bool = self.createJson(newsList)
             if not res:
                 self.logger.info(f"Write file not complete {self.__class__.__name__}")
             else:
                 self.logger.info(f"File {self.__class__.__name__} created")
         self.logger.info(f"Returned results")
-        return news_list
+        return newsList
 
-    def to_json(self, *args) -> bool:
+    def createJson(self, *args) -> bool:
         """
 
         :param args:
         :return:
         """
         now = datetime.datetime.now()
-        current_time = now.strftime("%Y-%m-%d_%H-%M-%S")
-        filename = f"json/{self.__class__.__name__}/{self.__class__.__name__}_{current_time}.json"
+        currentTime = now.strftime("%Y-%m-%d_%H-%M-%S")
+        filename = f"json/{self.__class__.__name__}/{self.__class__.__name__}_{currentTime}.json"
         data = {"Parsing site": f"{self.url}", "news": args[0]}
         try:
             with open(filename, 'w', encoding='utf-8') as f:

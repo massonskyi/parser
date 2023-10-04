@@ -1,30 +1,47 @@
 {
-    "Parsing site": "https://cyber.sports.ru/dota2/news/top/",
+    "Parsing site": "https://cyber.sports.ru/dota2/news/",
     "news": [
         {
-            "title": "B8 обыграла NAVI Junior с 14-летним мидером. 33-летний Dendi сыграл 13-1-22",
-            "url": "https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html",
+            "title": "Ame может возобновить карьеру",
+            "url": "https://cyber.sports.ru/dota2/1115521199-ame-mozhet-vozobnovit-kareru.html",
             "source": {
-                "title": " B8 обыграла NAVI Junior с 14-летним мидером. 33-летний Dendi сыграл 13-1-22 ",
-                "tags": "['https://cyber.sports.ru/players/dendi/', 'https://cyber.sports.ru/dota2/club/b8/', 'https://cyber.sports.ru/dota2/tournament/pinnacle-cup/', 'https://cyber.sports.ru/dota2/results/', 'https://cyber.sports.ru/club/navi-junior/', 'https://cyber.sports.ru/dota2/']\t['Данил «Dendi» Ишутин', 'B8', 'Pinnacle Cup', 'Результаты', 'NAVI Junior', 'Dota 2']",
+                "title": " Ame может возобновить карьеру ",
+                "tags": "['https://cyber.sports.ru/dota2/club/lgd-gaming/', 'https://cyber.sports.ru/players/ame/', 'https://cyber.sports.ru/dota2/']\t['LGD', 'Ван «Ame» Чуньюй', 'Dota 2']",
                 "origin": [
-                    "  Опубликовал   Дмитрий Некрасов   ",
-                    " "
+                    "  Опубликовал   Руслан Мороз   ",
+                    " Источник — CN Dota In A Nutshell "
                 ],
                 "source": [
-                    " B8 вышла в четвертьфинал Pinnacle Cup 4. ",
-                    "B8 всухую обыграла NAVI Junior на Pinnacle Cup: Malta Vibes 4.",
+                    " Владелица LGD сказала, что есть шанс, что Ван «Ame» Чуньюй возобновит карьеру. ",
+                    "Он может отыграть еще один год.",
+                    "Ранее фанат китайской Dota 2 перевел стрим Ян «Chalice» Шэньи, в котором тот рассказывал об особенности Ван «Ame» Чуньюя.",
+                    "Мы сделали рейтинг команд Доты! И GG в нем не топ-1",
+                    "Никс против всех. Кого он ругал в 2023 году?"
+                ]
+            },
+            "datetime": "4 октября  16:12"
+        },
+        {
+            "title": "Lukawa: «BetBoom чуть ли не двумя составами на Инте будут, вопросы?»",
+            "url": "https://cyber.sports.ru/dota2/1115519308-lukawa-betboom-chut-li-ne-dvumya-sostavami-na-inte-budut-voprosy.html",
+            "source": {
+                "title": " Lukawa: «BetBoom чуть ли не двумя составами на Инте будут, вопросы?» ",
+                "tags": "['https://cyber.sports.ru/players/daxak/', 'https://cyber.sports.ru/managers/lukawa/', 'https://cyber.sports.ru/dota2/club/betboom-team/', 'https://cyber.sports.ru/dota2/club/quest-esports/', 'https://cyber.sports.ru/dota2/']\t['Никита «Daxak» Кузьмин', 'Лука «Lukawa» Насуашвили', 'BetBoom Team', 'Quest', 'Dota 2']",
+                "origin": [
+                    "  Опубликовал   Руслан Мороз   ",
+                    " Источник — Lukawa "
+                ],
+                "source": [
+                    " Lukawa прокомментировал новость о том, что Дахак получил визу в США. ",
                     "",
-                    "Первая карта закончилась за 32 минуты, а вторая – за 36 минут.",
-                    "Состав B8 на Pinnacle Cup: V1olent, Dendi, Stonebank, CTOMAHEH1, Mary_y, Mag (тренер).",
-                    "NAVI Junior: Gotthejuice, Niku, Pma, Daze, Riddys, Artstyle (тренер).",
-                    "Dendi сыграл серию со статистикой 13-1-22, а 14-летний Niku – 8-9-10.",
-                    "Следующий матч B8 проведет 4 октября в 18:00.",
+                    "«BetBoom чуть ли не двумя составами на Инте будут, вопросы?",
+                    "Грац Дахао c визой!» – написал Лука «Lukawa» Насуашвили.",
+                    "Все игроки Quest тоже получили визы. Daxak ранее покинул Level Up и стал тренером Quest.",
                     "Мы сделали рейтинг команд Доты! И GG в нем не топ-1",
                     "Valve выпустила Компендиум! Как он устроен и почему именно такой?"
                 ]
             },
-            "datetime": "3 октября  13:56"
+            "datetime": "3 октября  22:29"
         },
         {
             "title": "Мария Гунина: «Как же начал лагать iPhone внезапно после презентации нового… Разве Apple за это не судили и не штрафовали?»",
@@ -71,54 +88,46 @@
             "datetime": "1 октября  23:03"
         },
         {
-            "title": "Алоха о прогрессе Мипошки: «Он был ботом, а стал гением. Что изменилось? Ему было плевать на игру»",
-            "url": "https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html",
+            "title": "Ame может возобновить карьеру",
+            "url": "https://cyber.sports.ru/dota2/1115521199-ame-mozhet-vozobnovit-kareru.html",
             "source": {
-                "title": " Алоха о прогрессе Мипошки: «Он был ботом, а стал гением. Что изменилось? Ему было плевать на игру» ",
-                "tags": "['https://cyber.sports.ru/players/alohadance/', 'https://cyber.sports.ru/dota2/club/team-spirit/', 'https://cyber.sports.ru/players/miposhka/', 'https://cyber.sports.ru/dota2/streamers/', 'https://cyber.sports.ru/dota2/']\t['Илья «ALOHADANCE» Коробкин', 'Team Spirit', 'Ярослав «Miposhka» Найденов', 'Стримеры Dota 2', 'Dota 2']",
+                "title": " Ame может возобновить карьеру ",
+                "tags": "['https://cyber.sports.ru/dota2/club/lgd-gaming/', 'https://cyber.sports.ru/players/ame/', 'https://cyber.sports.ru/dota2/']\t['LGD', 'Ван «Ame» Чуньюй', 'Dota 2']",
                 "origin": [
-                    "  Опубликовал   Артём Васильченко   ",
-                    " Источник — стрим Алохи "
+                    "  Опубликовал   Руслан Мороз   ",
+                    " Источник — CN Dota In A Nutshell "
                 ],
                 "source": [
-                    " Алоха удивился прогрессу Мипошки. ",
-                    "Разыгрываем пять компендиумов в нашей телеге! Нужно только подписаться",
-                    "«Что произошло со Spirit? Они же середняками были, когда взяли Ларла. Это же второй Резоль [Resolut1on]. Силен в макро, да и все.",
-                    "Что изменилось? Я одну вещь не понимаю, но принимаю. Так вот, я не понимаю, что случилось с Мипошкой? Он стал гением.",
-                    "Я смотрел победный The International, у него идеальные мувы по карте и пул героев. Он не был таким, когда я с ним играл.",
-                    "Он был безвольным, ему было плевать на игру, ему было лень даже играть паблики, он ничего не коллил, зажимался. Что произошло?",
-                    "Как это возможно? Он был ботом, а стал гением. Невероятное творит. Возможно, нашел своих людей. Я в огромном шоке», – отметил стример.",
-                    "Ярослав «Miposhka» Найденов перешел в Spirit в 2020 году. Вместе с командой он выиграл The International 2021.",
-                    "В Доте вышел Компендиум! Внутри – бинго, прогнозы и новые награды",
-                    "Valve выпустила Компендиум! Как он устроен и почему именно такой?"
+                    " Владелица LGD сказала, что есть шанс, что Ван «Ame» Чуньюй возобновит карьеру. ",
+                    "Он может отыграть еще один год.",
+                    "Ранее фанат китайской Dota 2 перевел стрим Ян «Chalice» Шэньи, в котором тот рассказывал об особенности Ван «Ame» Чуньюя.",
+                    "Мы сделали рейтинг команд Доты! И GG в нем не топ-1",
+                    "Никс против всех. Кого он ругал в 2023 году?"
                 ]
             },
-            "datetime": "30 сентября  21:30"
+            "datetime": "4 октября  16:12"
         },
         {
-            "title": "B8 обыграла NAVI Junior с 14-летним мидером. 33-летний Dendi сыграл 13-1-22",
-            "url": "https://cyber.sports.ru/dota2/1115517919-b8-obygrala-navi-junior-s-14-letnim-miderom-dendi-sygral-13-1-22.html",
+            "title": "Lukawa: «BetBoom чуть ли не двумя составами на Инте будут, вопросы?»",
+            "url": "https://cyber.sports.ru/dota2/1115519308-lukawa-betboom-chut-li-ne-dvumya-sostavami-na-inte-budut-voprosy.html",
             "source": {
-                "title": " B8 обыграла NAVI Junior с 14-летним мидером. 33-летний Dendi сыграл 13-1-22 ",
-                "tags": "['https://cyber.sports.ru/players/dendi/', 'https://cyber.sports.ru/dota2/club/b8/', 'https://cyber.sports.ru/dota2/tournament/pinnacle-cup/', 'https://cyber.sports.ru/dota2/results/', 'https://cyber.sports.ru/club/navi-junior/', 'https://cyber.sports.ru/dota2/']\t['Данил «Dendi» Ишутин', 'B8', 'Pinnacle Cup', 'Результаты', 'NAVI Junior', 'Dota 2']",
+                "title": " Lukawa: «BetBoom чуть ли не двумя составами на Инте будут, вопросы?» ",
+                "tags": "['https://cyber.sports.ru/players/daxak/', 'https://cyber.sports.ru/managers/lukawa/', 'https://cyber.sports.ru/dota2/club/betboom-team/', 'https://cyber.sports.ru/dota2/club/quest-esports/', 'https://cyber.sports.ru/dota2/']\t['Никита «Daxak» Кузьмин', 'Лука «Lukawa» Насуашвили', 'BetBoom Team', 'Quest', 'Dota 2']",
                 "origin": [
-                    "  Опубликовал   Дмитрий Некрасов   ",
-                    " "
+                    "  Опубликовал   Руслан Мороз   ",
+                    " Источник — Lukawa "
                 ],
                 "source": [
-                    " B8 вышла в четвертьфинал Pinnacle Cup 4. ",
-                    "B8 всухую обыграла NAVI Junior на Pinnacle Cup: Malta Vibes 4.",
+                    " Lukawa прокомментировал новость о том, что Дахак получил визу в США. ",
                     "",
-                    "Первая карта закончилась за 32 минуты, а вторая – за 36 минут.",
-                    "Состав B8 на Pinnacle Cup: V1olent, Dendi, Stonebank, CTOMAHEH1, Mary_y, Mag (тренер).",
-                    "NAVI Junior: Gotthejuice, Niku, Pma, Daze, Riddys, Artstyle (тренер).",
-                    "Dendi сыграл серию со статистикой 13-1-22, а 14-летний Niku – 8-9-10.",
-                    "Следующий матч B8 проведет 4 октября в 18:00.",
+                    "«BetBoom чуть ли не двумя составами на Инте будут, вопросы?",
+                    "Грац Дахао c визой!» – написал Лука «Lukawa» Насуашвили.",
+                    "Все игроки Quest тоже получили визы. Daxak ранее покинул Level Up и стал тренером Quest.",
                     "Мы сделали рейтинг команд Доты! И GG в нем не топ-1",
                     "Valve выпустила Компендиум! Как он устроен и почему именно такой?"
                 ]
             },
-            "datetime": "3 октября  13:56"
+            "datetime": "3 октября  22:29"
         },
         {
             "title": "Мария Гунина: «Как же начал лагать iPhone внезапно после презентации нового… Разве Apple за это не судили и не штрафовали?»",
@@ -163,31 +172,6 @@
                 ]
             },
             "datetime": "1 октября  23:03"
-        },
-        {
-            "title": "Алоха о прогрессе Мипошки: «Он был ботом, а стал гением. Что изменилось? Ему было плевать на игру»",
-            "url": "https://cyber.sports.ru/dota2/1115511135-aloxa-o-progresse-miposhki-on-byl-louskillom-a-stal-geniem-chto-izmeni.html",
-            "source": {
-                "title": " Алоха о прогрессе Мипошки: «Он был ботом, а стал гением. Что изменилось? Ему было плевать на игру» ",
-                "tags": "['https://cyber.sports.ru/players/alohadance/', 'https://cyber.sports.ru/dota2/club/team-spirit/', 'https://cyber.sports.ru/players/miposhka/', 'https://cyber.sports.ru/dota2/streamers/', 'https://cyber.sports.ru/dota2/']\t['Илья «ALOHADANCE» Коробкин', 'Team Spirit', 'Ярослав «Miposhka» Найденов', 'Стримеры Dota 2', 'Dota 2']",
-                "origin": [
-                    "  Опубликовал   Артём Васильченко   ",
-                    " Источник — стрим Алохи "
-                ],
-                "source": [
-                    " Алоха удивился прогрессу Мипошки. ",
-                    "Разыгрываем пять компендиумов в нашей телеге! Нужно только подписаться",
-                    "«Что произошло со Spirit? Они же середняками были, когда взяли Ларла. Это же второй Резоль [Resolut1on]. Силен в макро, да и все.",
-                    "Что изменилось? Я одну вещь не понимаю, но принимаю. Так вот, я не понимаю, что случилось с Мипошкой? Он стал гением.",
-                    "Я смотрел победный The International, у него идеальные мувы по карте и пул героев. Он не был таким, когда я с ним играл.",
-                    "Он был безвольным, ему было плевать на игру, ему было лень даже играть паблики, он ничего не коллил, зажимался. Что произошло?",
-                    "Как это возможно? Он был ботом, а стал гением. Невероятное творит. Возможно, нашел своих людей. Я в огромном шоке», – отметил стример.",
-                    "Ярослав «Miposhka» Найденов перешел в Spirit в 2020 году. Вместе с командой он выиграл The International 2021.",
-                    "В Доте вышел Компендиум! Внутри – бинго, прогнозы и новые награды",
-                    "Valve выпустила Компендиум! Как он устроен и почему именно такой?"
-                ]
-            },
-            "datetime": "30 сентября  21:30"
         },
         {
             "title": "Формат проведения The International 2023 Dota 2 — команды участники, где смотреть, место проведения TI12 ",

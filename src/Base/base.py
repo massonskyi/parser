@@ -1,4 +1,18 @@
+import os
 from abc import abstractmethod, ABC
+
+
+def mkdir(directoryName: str = "template", directoryPath: str = "./") -> bool:
+    if not directoryName or not directoryPath:
+        return False
+    os.makedirs(f"{directoryPath}/{directoryName}")
+    return True
+
+
+def isdir(directoryName: str = "template", directoryPath: str = "./") -> bool:
+    if not directoryName or not directoryPath:
+        return False
+    return os.path.isdir(f"{directoryPath}/{directoryName}")
 
 
 class BaseParser(ABC):
@@ -26,6 +40,14 @@ class BaseParser(ABC):
         raise NotImplemented('This method not implemented')
 
     @abstractmethod
+    def setupLogger(self) -> None:
+        """
+
+        :return:
+        """
+        raise NotImplemented('This method not implemented')
+
+    @abstractmethod
     def __repr__(self) -> str:
         """
 
@@ -34,7 +56,7 @@ class BaseParser(ABC):
         raise NotImplemented('This method not implemented')
 
     @abstractmethod
-    def get_page_content(self, url: str) -> object | None:
+    def getPageContent(self, url: str) -> object | None:
         """
 
         :param url:
@@ -43,20 +65,20 @@ class BaseParser(ABC):
         raise NotImplemented('This method not implemented')
 
     @abstractmethod
-    def construct_news_source(self, news_url: str) -> dict:
+    def constructNewsSource(self, newsUrl: str) -> dict:
         """
 
-        :param news_url:
+        :param newsUrl:
         :return:
         """
         raise NotImplemented('This method not implemented')
 
     @abstractmethod
-    def add_news_to_list(self, news_block: object, news_list: list) -> bool:
+    def addNewsToList(self, newsBlock: object, newsList: list) -> bool:
         """
 
-        :param news_block:
-        :param news_list:
+        :param newsBlock:
+        :param newsList:
         :return:
         """
         raise NotImplemented('This method not implemented')
@@ -70,7 +92,7 @@ class BaseParser(ABC):
         raise NotImplemented('This method not implemented')
 
     @abstractmethod
-    def to_json(self, *args) -> bool:
+    def createJson(self, *args) -> bool:
         """
 
         :return:

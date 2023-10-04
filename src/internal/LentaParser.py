@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 from requests import Response
 
-from src.Base import BaseParser
+from src.Base import BaseParser, mkdir, isdir
 
 
 class LentaParser(BaseParser):
@@ -16,8 +16,13 @@ class LentaParser(BaseParser):
     """
 
     def __init__(self, url: str, **kwargs) -> None:
+        if not isdir(f"{self.__class__.__name__}", "./json/"):
+            mkdir(f"{self.__class__.__name__}", "./json/")
+        if not isdir(f"{self.__class__.__name__}", './log/'):
+            mkdir(f"{self.__class__.__name__}", './log/')
+
         self.logger = logging.getLogger(__name__)
-        self.setup_logger()
+        self.setupLogger()
         try:
             if type(url) is not str:
                 raise TypeError("URL must be a string")
@@ -27,24 +32,24 @@ class LentaParser(BaseParser):
         except Exception as e:
             self.logger.error(e)
 
-        if kwargs.get('div_tag'):
-            self.div_tag: str = kwargs['div_tag']
-        if kwargs.get('div_class'):
-            self.div_class: str = kwargs['div_class']
-        if kwargs.get('title_tag'):
-            self.title_tag: str = kwargs['title_tag']
-        if kwargs.get('title_class'):
-            self.title_class: str = kwargs['title_class']
-        if kwargs.get('date_tag'):
-            self.date_tag: str = kwargs['date_tag']
-        if kwargs.get('date_class'):
-            self.date_class: str = kwargs['date_class']
-        if kwargs.get('summary_tag'):
-            self.summary_tag: str = kwargs['summary_tag']
-        if kwargs.get('summary_class'):
-            self.summary_class: str = kwargs['summary_class']
+        if kwargs.get('divTag'):
+            self.divTag: str = kwargs['divTag']
+        if kwargs.get('divClass'):
+            self.divClass: str = kwargs['divClass']
+        if kwargs.get('titleTag'):
+            self.titleTag: str = kwargs['titleTag']
+        if kwargs.get('titleClass'):
+            self.titleClass: str = kwargs['titleClass']
+        if kwargs.get('dateTag'):
+            self.dateTag: str = kwargs['dateTag']
+        if kwargs.get('dateClass'):
+            self.dateClass: str = kwargs['dateClass']
+        if kwargs.get('summaryTag'):
+            self.summaryTag: str = kwargs['summaryTag']
+        if kwargs.get('summaryClass'):
+            self.summaryClass: str = kwargs['summaryClass']
 
-    def setup_logger(self) -> None:
+    def setupLogger(self) -> None:
         self.logger.setLevel(logging.INFO)
         formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
@@ -56,8 +61,8 @@ class LentaParser(BaseParser):
 
         # Обработчик, который записывает сообщения в файл
         now = datetime.datetime.now()
-        current_time = now.strftime("%Y-%m-%d")
-        fh = logging.FileHandler(filename=f'log/{self.__class__.__name__}_{current_time}.log')
+        currentTime = now.strftime("%Y-%m-%d")
+        fh = logging.FileHandler(filename=f'log/{self.__class__.__name__}/{self.__class__.__name__}_{currentTime}.log')
         fh.setLevel(logging.INFO)
         fh.setFormatter(formatter)
         self.logger.addHandler(fh)
@@ -81,18 +86,18 @@ class LentaParser(BaseParser):
 
     def __repr__(self) -> str:
         information: str = f'parsing site: {self.url}\n'
-        if hasattr(self, 'div_tag'):
-            information += f'div tag: {self.div_tag}\n'
-        if hasattr(self, 'div_class'):
-            information += f'div class: {self.div_class}\n'
-        if hasattr(self, 'title_tag'):
-            information += f'title tag: {self.title_tag}\n'
-        if hasattr(self, 'title_class'):
-            information += f'title class: {self.title_class}\n'
+        if hasattr(self, 'divTag'):
+            information += f'div tag: {self.divTag}\n'
+        if hasattr(self, 'divClass'):
+            information += f'div class: {self.divClass}\n'
+        if hasattr(self, 'titleTag'):
+            information += f'title tag: {self.titleTag}\n'
+        if hasattr(self, 'titleClass'):
+            information += f'title class: {self.titleClass}\n'
         self.logger.info(f"Getting {information}")
         return information
 
-    def get_page_content(self, url: str) -> BeautifulSoup | None:
+    def getPageContent(self, url: str) -> BeautifulSoup | None:
         try:
             response: Response = requests.get(url)
             response.raise_for_status()
@@ -101,77 +106,76 @@ class LentaParser(BaseParser):
             self.logger.error(e)
             return None
 
-    def construct_news_source(self, news_url: str) -> dict | None:
-        soup: BeautifulSoup = self.get_page_content(news_url)
-        self.logger.info(f"Starting parsing {news_url}")
-        if "moslenta.ru" in news_url:
-            source_block: Any = soup.find('div', attrs={'data-qa': "lb-block"})
+    def constructNewsSource(self, newsUrl: str) -> dict | None:
+        soup: BeautifulSoup = self.getPageContent(newsUrl)
+        self.logger.info(f"Starting parsing {newsUrl}")
+        if "moslenta.ru" in newsUrl:
+            sourceBlock: Any = soup.find('div', attrs={'data-qa': "lb-block"})
             source: dict = {
-                'title': source_block.find('h1', attrs={'data-qa': 'lb-topic-header-texts-title'}).get_text(),
-                'sub_title': source_block.find('div', attrs={'data-qa': 'lb-topic-header-texts-lead'}).find(
+                'title': sourceBlock.find('h1', attrs={'data-qa': 'lb-topic-header-texts-title'}).get_text(),
+                'subTitle': sourceBlock.find('div', attrs={'data-qa': 'lb-topic-header-texts-lead'}).find(
                     'p').get_text(),
-                'source': [i.get_text() for i in source_block.find('div', class_='text').findAll('p')]
+                'source': [i.get_text() for i in sourceBlock.find('div', class_='text').findAll('p')]
             }
             return source
-        elif "motor.ru" in news_url:
-            source_block: Any = soup.find('div', class_='content')
+        elif "motor.ru" in newsUrl:
+            sourceBlock: Any = soup.find('div', class_='content')
             source: dict = {
-                'title': source_block.find('h1', attrs={'data-qa': 'lb-topic-header-texts-title'}).get_text(),
-                'sub_title': source_block.find('span', class_='subtitle').get_text(),
+                'title': sourceBlock.find('h1', attrs={'data-qa': 'lb-topic-header-texts-title'}).get_text(),
+                'subTitle': sourceBlock.find('span', class_='subtitle').get_text(),
                 'source': [i.get_text() for i in
-                           source_block.find('div', attrs={'data-qa': 'lb-topic-header-texts-lead'}).findAll('p')]
+                           sourceBlock.find('div', attrs={'data-qa': 'lb-topic-header-texts-lead'}).findAll('p')]
             }
             return source
         else:  # Assuming this is for "https://lenta.ru"
-            source_block: Any = soup.find('div', class_='topic-body')
+            sourceBlock: Any = soup.find('div', class_='topic-body')
             source: dict = {}
-            if source_block.find('h1', class_='topic-body__titles'):
-                source['title'] = source_block.find('h1', class_='topic-body__titles').get_text()
-            if source_block.find('div', class_='topic-body__title-yandex'):
-                source['sub_title'] = source_block.find('div', class_='topic-body__title-yandex').get_text()
-            if source_block.find("div", class_="topic-body__content").find_all('p'):
-                source['source'] = [i.get_text() for i in
-                                    source_block.find("div", class_="topic-body__content").find_all('p')]
+            if findTitle := sourceBlock.find('h1', class_='topic-body__titles'):
+                source['title'] = findTitle.get_text()
+            if findSubTitle := sourceBlock.find('div', class_='topic-body__title-yandex'):
+                source['subTitle'] = findSubTitle.get_text()
+            if findAllDesc := sourceBlock.find("div", class_="topic-body__content").find_all('p'):
+                source['source'] = [i.get_text() for i in findAllDesc]
             return source
 
-    def add_news_to_list(self, news_block: Any, news_list: list) -> bool:
-        find_h3: Any = news_block.find(self.title_tag, self.title_class)
-        if not find_h3:
+    def addNewsToList(self, newsBlock: Any, newsList: list) -> bool:
+        findHeading: Any = newsBlock.find(self.titleTag, self.titleClass)
+        if not findHeading:
             return False
-        news_title: Any = find_h3.get_text()
-        news_url: Any = news_block.find('a')['href']
-        if not news_url.startswith('http'):
-            news_url = "https://lenta.ru" + news_url
-        source: dict = self.construct_news_source(news_url)
-        news_list.append({"title": news_title, "url": news_url, "source": source})
+        newsTitle: Any = findHeading.get_text()
+        newsUrl: Any = newsBlock.find('a')['href']
+        if not newsUrl.startswith('http'):
+            newsUrl = "https://lenta.ru" + newsUrl
+        source: dict = self.constructNewsSource(newsUrl)
+        newsList.append({"title": newsTitle, "url": newsUrl, "source": source})
         return True
 
     def parse(self) -> list:
         self.logger.info(f"Starting parsing {self.url}")
-        news_list: list = []
-        soup: BeautifulSoup = self.get_page_content(self.url)
-        news_blocks: Any = soup.find_all(self.div_tag, self.div_class)
-        for news_block in news_blocks:
-            if not self.add_news_to_list(news_block, news_list):
+        newsList: list = []
+        soup: BeautifulSoup = self.getPageContent(self.url)
+        newsBlocks: Any = soup.find_all(self.divTag, self.divClass)
+        for newsBlock in newsBlocks:
+            if not self.addNewsToList(newsBlock, newsList):
                 break
-        if news_list:
-            res: bool | Exception = self.to_json(news_list)
+        if newsList:
+            res: bool = self.createJson(newsList)
             if not res:
                 self.logger.info(f"Write file not complete {self.__class__.__name__}")
             else:
                 self.logger.info(f"File {self.__class__.__name__} created")
         self.logger.info(f"Returned results")
-        return news_list
+        return newsList
 
-    def to_json(self, *args) -> bool:
+    def createJson(self, *args) -> bool:
         """
 
         :param args:
         :return:
         """
         now: datetime = datetime.datetime.now()
-        current_time: str = now.strftime("%Y-%m-%d_%H-%M-%S")
-        filename: str = f"json/{self.__class__.__name__}/{self.__class__.__name__}_{current_time}.json"
+        currentTime: str = now.strftime("%Y-%m-%d_%H-%M-%S")
+        filename: str = f"json/{self.__class__.__name__}/{self.__class__.__name__}_{currentTime}.json"
         try:
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(*args, f, ensure_ascii=False, indent=4)
